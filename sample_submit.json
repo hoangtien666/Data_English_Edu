@@ -1,0 +1,40 @@
+{
+    "totalQuestion": 20,
+    "correctAnswers": 0,
+    "score": 0,
+    "exam": {
+        "id": 7159,
+        "name": "Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #5",
+        "slug": "bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-5",
+        "pages": [
+            {
+                "id": 7491,
+                "questions": [
+                    {
+                        "id": 231319,
+                        "name": "<p>Câu 1: At last he had found someone on whom he could vent his _____.</p>",
+                        "answers": [
+                            { "id": 910790, "name": "A anger" },
+                            { "id": 910791, "name": "B love" },
+                            { "id": 910792, "name": "C happiness" },
+                            { "id": 910793, "name": "D trust" }
+                        ],
+                        "correctAnswer": "A anger"
+                    },
+                    {
+                        "id": 231320,
+                        "name": "<p>Câu 2: Before we had the _____ cleaned, the sitting-room used to fill with smoke.</p>",
+                        "answers": [
+                            { "id": 910794, "name": "A chimney" },
+                            { "id": 910795, "name": "B passage" },
+                            { "id": 910796, "name": "C tube" },
+                            { "id": 910797, "name": "D pipe" }
+                        ],
+                        "correctAnswer": "A chimney"
+                    }
+                ]
+            }
+        ]
+    },
+    "share_code": "1766633367-2y104lh1mhgiq3rctd8sa7hpufpn4k7rwvetdkc5qiyksvpihs5smqa"
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-6/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358b37496cfdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:04 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PGFfWraqZNsYmaTzJK%2BpzxPoDdP4GKGbW6Sn92zDeYz%2FYBZTIs4kJU4P5T%2BsNjgBG9bdih48JNdtbPhd5ejjwf7OIs2N404aCzsogkhfZmFtbaDVBuEX\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5717"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-5/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358b752ddbfdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:14 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=c5B2hZD3VK3GZnJdziKNlFTX24eOJMUafMwfaB2RywPpu0Rm37D%2BMT25wG4q9eGEewcwm6SXkRUQauAip7lnaBqVsC3vpFQARTE002GLu7LEdCCD2VYb\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5643"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/trac-nghiem-lien-tu-however-although-because-so-va-lien-tu-thoi-gian-2/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358ba4af52fdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:21 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SABHLAJnaO7DQQb21iak1t2lV90gXCwmSYIKwmMCQToP1SEERJZzlI82K%2Fx4xPQZeh1Vt5puY5cLdLJyOdTbvbgy1pwwpITN44wdeEU6hgvu7gEY227u\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5581"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-ve-lien-tu-tieng-anh-1/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358bd2fddffdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:29 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bpT%2BrGitbWvmlLB1r0Jb5IlxEh1eCOqGb6ohXeTgSRKHnsy0Ho9MFiZsaQA7PpmZozHcerA0yt2cjxuNYQlnb37jHkEt4gJNBJ2xZYrN58qw%2Fmb5%2FOMa\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5997"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-4/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358c02ccc5fdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:36 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bV5Ks4Kf02nU7CyqCQsxt2oQV3sykGcKzCgWiePkYAXu7VTwUZQ83jdSmu%2FNkzJJAKHWYxIY%2F0RY0qYqiNsPlvmWoxp17gVwpV1iUNfiR%2Bk4g3PovqU5\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5951"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-3/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358c329e26fdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:45 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=w3Gw0tx4alAzeNB4aaIF2NfYxEXYhdzfVMfH%2FV5m0dkcuJwUG7spKbmx71oXbAMqvnJf3V99H29yzdujqGz0zpu9%2BvvhUbjxtqMYW2PaQYqdGdYF2B5i\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5877"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-multiple-choice-test-english-no-2/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358c62a86cfdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:52 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=o5n4WFhaX9nRW15ORqKrVdRUi0GwM263uHqBpmVXFeImi9nQPiv3k%2B4Y%2Bl5s7rYpE89VZMwZb89%2BN%2FFqK8A1eQ0LbBhnuU711PrTpnEoJ2qcyb8JzkYM\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5703"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/multiple-choice-english-no-1/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358c928940fdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:20:59 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=m21pkrGXzgPx7bk1zhqQ1KVuPuS5xKIBx0bZwGVoXCphQm2G3U8oQroYYEjyk7ezZNV595Emfj4GJKzhYotKNZm9FWm6jj3WzMP4C62J%2BC6mzDHS3oUA\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5642"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-de-2-tieng-anh-13/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358cc0a99afdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:21:07 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hMwfKy5tRFHphpMBE7fXFyTtDYCQGD4Gt1P7hHe5enF%2FOCNzY%2BLqg0gO5F7FrRZNCk7aA4lPGuFbIM58%2FZQJNUqSzN7vTg78gIFXMHqUO26Ln55AiyzV\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5570"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-tieng-anh-13/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b358cf0ab9dfdbf-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:21:15 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hkmn2eXb7brnyXzQBYzChCcfmFAsq3Ub%2FMEAW3w7LpPg9l%2BGh778OCXx9m%2FJuKiMfPzOMTm%2Fn84G%2BiJxrUBSioyJRhd5ZQCdREOaWCzxD26udoXZqzco\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5509"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-6/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b35906afe72ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:23:37 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ht5opMxH9Cu0JZ0NFHVOZrYzG%2BYpi9EMHmHgYxosWN86CrgHgQwziFLnfy4AB9OkcpK6Wjn8HrTGWQSoTq27Tlh3fl7Poy4rT7VbUZ4cIzO9RYzhdA%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5858"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-5/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b3590a25811ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:23:46 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XUYkP0xbbFAkkioDXTF1AkRuozMnAAJ%2Bh0npsHWs8z7%2Fue58JOgZ4mcjotsKqVgUo2Stskh82QlL7oWtIlRXpwEzmGZ3WuuAG4i%2FJ8gF36D9bAAwlQ%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5757"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/trac-nghiem-lien-tu-however-although-because-so-va-lien-tu-thoi-gian-2/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b3590db39fbef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:23:55 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=cqxS%2F589Xly1m7NdrjntdbbZOeyhwq1Bl0pKHNwC%2By9vyDuo0coGt8myulZaEkDM2vR4xQxFY1BvMUQiIm2lxN0r1EF6G2nVHIjd%2BFfxk2TBByf51w%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5692"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-ve-lien-tu-tieng-anh-1/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b3591140b0fef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:04 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KBjlpxa9OnplMoDNxlmesX1Up1NkkUhxZPVHXN%2BsbdFuWDPzxAIHH3QgoxF0Noxvf7WWdRn0jH1venqz6szpcGP9cpOgdX3ql6I7pCkezZ%2FvpNO3dw%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5607"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-4/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b35914ccbf4ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:13 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ddXBMe0I%2F4BsUUWhXYing%2F57lEb61EBdxHRdHKo9iyDWBgCh6uEfUVwjmNvEDkRVyic03jOEcTm8eaqsiMtTtw2MOwY%2BVRCs%2FYCkqgX3Dl7GQcbhvg%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5525"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-3/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b3591878f21ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:23 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SnFTWWHXg3kQ47wzdRpiAZhKHsCknJi0oF%2FFE%2B3GuZuUN2jnoDlZn4%2B7GJ6i6ZbLvqX3EZ10VpMmovM7AfiVSlWt0B5p5qwHUFno97Tgv9%2FEKvXLxA%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5433"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-multiple-choice-test-english-no-2/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b3591c03995ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:32 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PeeCdBoaFpETGvx9P%2FqeT%2Fepbhl0WQnW4KvLMFO%2BPnwfoZz%2FqlcoLpxd1vF1J7RSn9YheYB7ieZfWZ0qx%2B%2Bm0euXs2GKGnEQkDEh9MsY%2BlTZAtbGGg%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5964"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/multiple-choice-english-no-1/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b3591faaf41ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:41 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6pOIgU9KOzfFHp3H9oqBsKM83XI33Taz%2FfV6sEYhnSXXdoX03q9qnb2jfLYnOTh8qGl%2FM%2BdW51kR2rXZ8JUCmtr8VOg6SVrggelcoxJwENpzDeK%2B5Q%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5823"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/bai-tap-trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-de-2-tieng-anh-13/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b359233a8fdef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:50 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BEtyAjKG7TyfJSjxXaQkeSAJXE4liwWvSFp4ppbIH5XxLSzX9yXmc4Z%2FkRB9k%2BczKKUkmFP78Rrfx8eX39DGoHUGAaigmH%2BNG1nftiURZKZO6B3Ctg%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5715"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  },
+  {
+    "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-tieng-anh-13/breadcrumb",
+    "status": 200,
+    "headers": {
+      "access-control-allow-origin": "*",
+      "cache-control": "no-cache, private",
+      "cf-cache-status": "BYPASS",
+      "cf-ray": "9b35926de933ef71-SIN",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Thu, 25 Dec 2025 04:24:59 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZQjsXxOCerxe1c9394NQqcSa9spED23WQ%2BLO9yQ25U4ZIC0zy8iABbdM8FDjDXFx7WxPt2k8UQEikR7iKkefihAadmkF716gw5qFUDDcSBksI6n7aw%3D%3D\"}]}",
+      "server": "cloudflare",
+      "vary": "accept-encoding",
+      "x-powered-by": "PHP/8.0.30",
+      "x-ratelimit-limit": "6000",
+      "x-ratelimit-remaining": "5555"
+    },
+    "body": {
+      "cateogry": {
+        "id": 13,
+        "avatar": "",
+        "name": "Tiếng Anh",
+        "slug": "bai-tap-tieng-anh",
+        "parent_id": 0,
+        "meta_title": "1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.",
+        "meta_description": "Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.",
+        "created_at": "2023-03-16T08:07:15.000000Z",
+        "updated_at": "2024-10-07T08:59:23.000000Z",
+        "h1_title": "Bài Tập Trắc Nghiệm Tiếng Anh",
+        "short_description": "Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.",
+        "deleted_at": null,
+        "is_premium": 0,
+        "is_available_app": 0,
+        "parent": null
+      },
+      "parent_category": null
+    }
+  }
+]

@@ -1,6 +1,2 @@
-node_modules/
+node_modules
 responses.json
-network_captures*.json
-*.csv
-.DS_Store
-.env
