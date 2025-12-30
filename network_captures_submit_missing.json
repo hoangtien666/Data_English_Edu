@@ -2,33 +2,33 @@
   {
     "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/submit",
     "method": "POST",
-    "postData": "{\"id\":7155,\"name\":\"Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #3\",\"slug\":\"bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-3\",\"avatar\":\"https://assets.baitaptracnghiem.com/tracnghiem/rEmaFoJ2sqQx3kIBAP25N1aktfhalCIQ8neLa7A2.jpg\",\"meta_title\":\"Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #1\",\"meta_description\":\"Làm bài tập trắc nghiệm từ vựng và ngữ pháp tiếng anh nâng cao số 3. Ôn luyện các collocation chuẩn trong tiếng anh,\",\"description\":null,\"status\":\"new\",\"note\":null,\"time_out\":0,\"category_id\":13,\"created_at\":\"2025-09-23T03:38:15.000000Z\",\"updated_at\":\"2025-09-23T04:30:08.000000Z\",\"type\":\"html\",\"exam_order\":0,\"deleted_at\":null,\"topic_id\":null,\"creator_id\":null,\"is_premium\":0,\"year\":null,\"is_favorite\":false,\"has_collection\":false,\"in_team_exams\":false,\"questions_count\":20,\"category_name\":\"Tiếng Anh\",\"time_limit_value\":30,\"pages\":[{\"id\":7487,\"name\":\"Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #3\",\"note\":\"<p>Chọn một đáp án đúng.</p>\",\"order\":1,\"exam_id\":7155,\"created_at\":\"2025-09-23T03:38:57.000000Z\",\"updated_at\":\"2025-09-23T03:38:57.000000Z\",\"questions_file\":null,\"answers_file\":null,\"questions\":[{\"id\":231259,\"name\":\"<p>Câu 1: He completely ___ with what I said.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":1,\"page_id\":7487,\"created_at\":\"2025-09-23T03:39:55.000000Z\",\"updated_at\":\"2025-09-23T03:39:55.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910563,\"name\":\"A admitted\",\"note\":null,\"question_id\":231259},{\"id\":910564,\"name\":\"B agreed\",\"note\":null,\"question_id\":231259},{\"id\":910565,\"name\":\"C accepted\",\"note\":null,\"question_id\":231259},{\"id\":910566,\"name\":\"D argued\",\"note\":null,\"question_id\":231259}],\"selecting_answers\":{\"id\":910566,\"name\":\"D argued\",\"note\":null,\"question_id\":231259},\"answer_text\":\"D argued\",\"answer\":\"D argued\"},{\"id\":231260,\"name\":\"<p>Câu 2: For elderly people, one of the problems ___ by rising prices is the continual increase in heating bills.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":2,\"page_id\":7487,\"created_at\":\"2025-09-23T03:42:25.000000Z\",\"updated_at\":\"2025-09-23T03:44:13.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<h3>1. <strong>Pose</strong></h3><ul><li><p>Khi nói <em>“a problem posed by …”</em>, ta ngầm hiểu: <strong>một vấn đề được đặt ra, được gây ra bởi …</strong></p></li><li><p>“Pose” thường đi với <strong>problem, challenge, question, risk, threat</strong>.</p></li><li><p>Nó mang sắc thái trung tính, thiên về <strong>đặt ra, gây ra tình huống để phải xử lý</strong>.</p></li></ul><p>Ví dụ:</p><ul><li><p><em>The new policy poses a challenge for small businesses.</em><br>→ Chính sách mới đặt ra một thách thức cho các doanh nghiệp nhỏ.</p></li></ul><hr><h3>2. <strong>Given by</strong></h3><ul><li><p>“Give” thiên về <strong>trao, cung cấp</strong>.</p></li><li><p><em>A problem given by rising prices</em> nghe <strong>không tự nhiên</strong>, vì “give” thường không đi với “problem”. Người bản ngữ không nói vậy.</p></li></ul><hr><h3>3. <strong>Pressed by</strong></h3><ul><li><p>“Press” = <strong>bị ép, bị đè nặng</strong>.</p></li><li><p><em>Pressed by rising prices</em> có thể dùng, nhưng nó mô tả <strong>con người</strong> bị áp lực, chứ không nói về <strong>vấn đề được gây ra</strong>.</p><ul><li><p>Ví dụ: <em>Elderly people are pressed by rising prices.</em> (Người cao tuổi bị áp lực vì giá cả tăng cao).</p></li></ul></li><li><p>Nhưng để nói <em>một vấn đề do cái gì gây ra</em>, không dùng “press”.</p></li></ul><hr><h3>4. <strong>Forced by</strong></h3><ul><li><p>“Force” = <strong>ép buộc</strong>.</p></li><li><p>Nếu nói <em>forced by rising prices</em>, thì phải có hành động đi kèm:</p><ul><li><p><em>Elderly people are forced by rising prices to cut down on heating.</em><br>→ Người cao tuổi buộc phải giảm chi phí sưởi ấm do giá cả leo thang.</p></li></ul></li><li><p>Nó không tự nhiên khi đi với “problem”.</p></li></ul><hr><p>✅ Vì vậy, người viết dùng <strong>“posed by”</strong> vì:</p><ul><li><p>Đây là collocation (cụm từ thường đi với nhau).</p></li><li><p>“Problem posed by …” là cách</p></li></ul>\",\"scoring_method\":1,\"answers\":[{\"id\":910567,\"name\":\"A given\",\"note\":null,\"question_id\":231260},{\"id\":910568,\"name\":\"B posed\",\"note\":null,\"question_id\":231260},{\"id\":910569,\"name\":\"C pressed\",\"note\":null,\"question_id\":231260},{\"id\":910570,\"name\":\"D forced\",\"note\":null,\"question_id\":231260}],\"selecting_answers\":{\"id\":910570,\"name\":\"D forced\",\"note\":null,\"question_id\":231260},\"answer_text\":\"D forced\",\"answer\":\"D forced\"},{\"id\":231261,\"name\":\"<p>Câu 3: I don’t see any ___ in arriving early at the theatre if the show doesn’t start until 9 o’clock.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":3,\"page_id\":7487,\"created_at\":\"2025-09-23T03:46:09.000000Z\",\"updated_at\":\"2025-09-23T03:46:20.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p>“I don’t see any ___ in arriving early at the theatre if the show doesn’t start until 9 o’clock.”</p><p>cause = nguyên nhân (không phù hợp vì câu này nói về \\\"sự hợp lý/ý nghĩa\\\", không phải \\\"nguyên nhân\\\").</p><p>aim = mục đích (thường dùng khi chủ động có mục đích làm gì đó, nhưng ở đây không tự nhiên).</p><p>point = ý nghĩa, sự hợp lý, lý do chính đáng → cụm quen thuộc: “I don’t see the point (in doing something)” = Tôi không thấy có ích gì / không thấy ý nghĩa gì khi làm việc đó.</p><p>reason = lý do (cũng gần nghĩa, nhưng cấu trúc chuẩn trong tiếng Anh là “see any reason why …”, chứ không phải “see any reason in doing …”).</p><p>👉 Vì vậy, đáp án chuẩn nhất là C. point.</p>\",\"scoring_method\":1,\"answers\":[{\"id\":910571,\"name\":\"A cause\",\"note\":null,\"question_id\":231261},{\"id\":910572,\"name\":\"B aim\",\"note\":null,\"question_id\":231261},{\"id\":910573,\"name\":\"C point\",\"note\":null,\"question_id\":231261},{\"id\":910574,\"name\":\"D reason\",\"note\":null,\"question_id\":231261}],\"selecting_answers\":{\"id\":910574,\"name\":\"D reason\",\"note\":null,\"question_id\":231261},\"answer_text\":\"D reason\",\"answer\":\"D reason\"},{\"id\":231262,\"name\":\"<p>Câu 4: This man is so arrogant that he is completely ___ to all criticism.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":4,\"page_id\":7487,\"created_at\":\"2025-09-23T03:47:58.000000Z\",\"updated_at\":\"2025-09-23T03:48:09.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p><strong>“This man is so arrogant that he is completely ___ to all criticism.”</strong></p><ul><li><p><strong>impervious to</strong> = <strong>không bị ảnh hưởng bởi, miễn nhiễm với</strong>.<br>→ Đây là cụm collocation chuẩn: <em>impervious to criticism</em> = không bị ảnh hưởng bởi lời chỉ trích.</p></li><li><p><strong>unaware of</strong> = không nhận thức được về cái gì.<br>→ Nhưng ở đây người đàn ông kiêu ngạo, nghĩa là ông <strong>biết nhưng không quan tâm</strong>, không phải “không biết”.</p></li><li><p><strong>regardless of</strong> = bất chấp, không màng đến.<br>→ Thường dùng trong cụm <em>regardless of something</em>, chứ không đi sau “completely ___ to”.</p></li><li><p><strong>unconscious of</strong> = bất tỉnh / không ý thức được.<br>→ Mang nghĩa thể chất nhiều hơn (mất ý thức), không tự nhiên khi nói về “criticism”.</p></li></ul><p>👉 Vì vậy, <strong>impervious</strong> mới chính xác nhất.</p>\",\"scoring_method\":1,\"answers\":[{\"id\":910575,\"name\":\"A impervious\",\"note\":null,\"question_id\":231262},{\"id\":910576,\"name\":\"B unaware\",\"note\":null,\"question_id\":231262},{\"id\":910577,\"name\":\"C regardless\",\"note\":null,\"question_id\":231262},{\"id\":910578,\"name\":\"D unconscious\",\"note\":null,\"question_id\":231262}],\"selecting_answers\":{\"id\":910578,\"name\":\"D unconscious\",\"note\":null,\"question_id\":231262},\"answer_text\":\"D unconscious\",\"answer\":\"D unconscious\"},{\"id\":231263,\"name\":\"<p>Câu 5: He filled in the necessary forms and ___ for the job.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":5,\"page_id\":7487,\"created_at\":\"2025-09-23T03:50:28.000000Z\",\"updated_at\":\"2025-09-23T03:50:28.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910579,\"name\":\"A appealed\",\"note\":null,\"question_id\":231263},{\"id\":910580,\"name\":\"B asked\",\"note\":null,\"question_id\":231263},{\"id\":910581,\"name\":\"C requested\",\"note\":null,\"question_id\":231263},{\"id\":910582,\"name\":\"D applied\",\"note\":null,\"question_id\":231263}],\"selecting_answers\":{\"id\":910582,\"name\":\"D applied\",\"note\":null,\"question_id\":231263},\"answer_text\":\"D applied\",\"answer\":\"D applied\"},{\"id\":231264,\"name\":\"<p>Câu 6: I heard the sound of the blind man ___ with his stick.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":6,\"page_id\":7487,\"created_at\":\"2025-09-23T03:54:04.000000Z\",\"updated_at\":\"2025-09-23T03:58:50.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<ul><li><p><strong>creaking</strong> = kêu cót két (thường dùng cho cửa, sàn gỗ, ghế → không hợp).</p></li><li><p><strong>ticking</strong> = tích tắc (dùng cho đồng hồ → không hợp).</p></li><li><p><strong>tapping</strong> = gõ nhẹ, chạm nhẹ ( giống như chạm vào màn hình điện thoại)</p></li><li><p><strong>rapping</strong> = gõ mạnh, gõ cộc cộc, mang sắc thái mạnh hơn tapping → rất hợp với hình ảnh người mù dùng gậy gõ xuống đất để dò đường.</p></li></ul>\",\"scoring_method\":1,\"answers\":[{\"id\":910583,\"name\":\"A creaking\",\"note\":null,\"question_id\":231264},{\"id\":910584,\"name\":\"B ticking\",\"note\":null,\"question_id\":231264},{\"id\":910585,\"name\":\"C tapping\",\"note\":null,\"question_id\":231264},{\"id\":910586,\"name\":\"D rapping\",\"note\":null,\"question_id\":231264}],\"selecting_answers\":{\"id\":910586,\"name\":\"D rapping\",\"note\":null,\"question_id\":231264},\"answer_text\":\"D rapping\",\"answer\":\"D rapping\"},{\"id\":231265,\"name\":\"<p>Câu 7: Give me a word ___ with S.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":7,\"page_id\":7487,\"created_at\":\"2025-09-23T04:01:18.000000Z\",\"updated_at\":\"2025-09-23T04:01:18.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910587,\"name\":\"A beginning\",\"note\":null,\"question_id\":231265},{\"id\":910588,\"name\":\"B begins\",\"note\":null,\"question_id\":231265},{\"id\":910589,\"name\":\"C began\",\"note\":null,\"question_id\":231265},{\"id\":910590,\"name\":\"D begin\",\"note\":null,\"question_id\":231265}],\"selecting_answers\":{\"id\":910590,\"name\":\"D begin\",\"note\":null,\"question_id\":231265},\"answer_text\":\"D begin\",\"answer\":\"D begin\"},{\"id\":231266,\"name\":\"<p>Câu 8:The train ___ the bay and then turned inland for twenty miles.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":8,\"page_id\":7487,\"created_at\":\"2025-09-23T04:02:18.000000Z\",\"updated_at\":\"2025-09-23T04:03:17.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<ul><li><p></p></li></ul>\",\"scoring_method\":1,\"answers\":[{\"id\":910591,\"name\":\"A coasted\",\"note\":null,\"question_id\":231266},{\"id\":910592,\"name\":\"B skirted\",\"note\":null,\"question_id\":231266},{\"id\":910593,\"name\":\"C glided\",\"note\":null,\"question_id\":231266},{\"id\":910594,\"name\":\"D sided\",\"note\":null,\"question_id\":231266}],\"selecting_answers\":{\"id\":910594,\"name\":\"D sided\",\"note\":null,\"question_id\":231266},\"answer_text\":\"D sided\",\"answer\":\"D sided\"},{\"id\":231267,\"name\":\"<p>Câu 9: The lake contained ___ thousands of fish.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":9,\"page_id\":7487,\"created_at\":\"2025-09-23T04:03:57.000000Z\",\"updated_at\":\"2025-09-23T04:03:57.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910595,\"name\":\"A much\",\"note\":null,\"question_id\":231267},{\"id\":910596,\"name\":\"B one\",\"note\":null,\"question_id\":231267},{\"id\":910597,\"name\":\"C many\",\"note\":null,\"question_id\":231267},{\"id\":910598,\"name\":\"D few\",\"note\":null,\"question_id\":231267}],\"selecting_answers\":{\"id\":910598,\"name\":\"D few\",\"note\":null,\"question_id\":231267},\"answer_text\":\"D few\",\"answer\":\"D few\"},{\"id\":231268,\"name\":\"<p>Câu 10: The Director’s personality was undoubtedly a ___ in the company’s success.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":10,\"page_id\":7487,\"created_at\":\"2025-09-23T04:04:54.000000Z\",\"updated_at\":\"2025-09-23T04:04:54.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910599,\"name\":\"A feature\",\"note\":null,\"question_id\":231268},{\"id\":910600,\"name\":\"B individual\",\"note\":null,\"question_id\":231268},{\"id\":910601,\"name\":\"C factor\",\"note\":null,\"question_id\":231268},{\"id\":910602,\"name\":\"D cause\",\"note\":null,\"question_id\":231268}],\"selecting_answers\":{\"id\":910602,\"name\":\"D cause\",\"note\":null,\"question_id\":231268},\"answer_text\":\"D cause\",\"answer\":\"D cause\"},{\"id\":231269,\"name\":\"<p>Câu 11: He missed the lecture, so I lent him my notes ___.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":11,\"page_id\":7487,\"created_at\":\"2025-09-23T04:07:07.000000Z\",\"updated_at\":\"2025-09-23T04:07:07.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910603,\"name\":\"A after\",\"note\":null,\"question_id\":231269},{\"id\":910604,\"name\":\"B afterwards\",\"note\":null,\"question_id\":231269},{\"id\":910605,\"name\":\"C at last\",\"note\":null,\"question_id\":231269},{\"id\":910606,\"name\":\"D finally\",\"note\":null,\"question_id\":231269}],\"selecting_answers\":{\"id\":910606,\"name\":\"D finally\",\"note\":null,\"question_id\":231269},\"answer_text\":\"D finally\",\"answer\":\"D finally\"},{\"id\":231270,\"name\":\"<p>Câu 12: After the theft of his car he put in an insurance ___ for $3,000.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":12,\"page_id\":7487,\"created_at\":\"2025-09-23T04:07:51.000000Z\",\"updated_at\":\"2025-09-23T04:07:51.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910607,\"name\":\"A account\",\"note\":null,\"question_id\":231270},{\"id\":910608,\"name\":\"B invoice\",\"note\":null,\"question_id\":231270},{\"id\":910609,\"name\":\"C assessment\",\"note\":null,\"question_id\":231270},{\"id\":910610,\"name\":\"D claim\",\"note\":null,\"question_id\":231270}],\"selecting_answers\":{\"id\":910610,\"name\":\"D claim\",\"note\":null,\"question_id\":231270},\"answer_text\":\"D claim\",\"answer\":\"D claim\"},{\"id\":231271,\"name\":\"<p>Câu 13: His answer was so confused that I could hardly make any ___ of it at all.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":13,\"page_id\":7487,\"created_at\":\"2025-09-23T04:08:26.000000Z\",\"updated_at\":\"2025-09-23T04:08:26.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910611,\"name\":\"A interpretation\",\"note\":null,\"question_id\":231271},{\"id\":910612,\"name\":\"B application\",\"note\":null,\"question_id\":231271},{\"id\":910613,\"name\":\"C meaning\",\"note\":null,\"question_id\":231271},{\"id\":910614,\"name\":\"D sense\",\"note\":null,\"question_id\":231271}],\"selecting_answers\":{\"id\":910614,\"name\":\"D sense\",\"note\":null,\"question_id\":231271},\"answer_text\":\"D sense\",\"answer\":\"D sense\"},{\"id\":231272,\"name\":\"<p>Câu 14: His failure ___ great disappointment to his parents.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":14,\"page_id\":7487,\"created_at\":\"2025-09-23T04:09:06.000000Z\",\"updated_at\":\"2025-09-23T04:09:31.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<ul><li><p><strong>forced</strong> = ép buộc → không hợp nghĩa.</p></li><li><p><strong>made</strong> = “làm cho”, nhưng với danh từ <strong>disappointment</strong>, người ta không dùng <em>made disappointment</em>, mà dùng <em>caused disappointment</em>.</p></li><li><p><strong>caused</strong> = gây ra → <em>cause disappointment</em> là collocation chuẩn. ✔</p></li><li><p><strong>provided</strong> = cung cấp → không hợp vì <em>provide disappointment</em> không có nghĩa.</p></li></ul>\",\"scoring_method\":1,\"answers\":[{\"id\":910615,\"name\":\"A forced\",\"note\":null,\"question_id\":231272},{\"id\":910616,\"name\":\"B made\",\"note\":null,\"question_id\":231272},{\"id\":910617,\"name\":\"C caused\",\"note\":null,\"question_id\":231272},{\"id\":910618,\"name\":\"D provided\",\"note\":null,\"question_id\":231272}],\"selecting_answers\":{\"id\":910618,\"name\":\"D provided\",\"note\":null,\"question_id\":231272},\"answer_text\":\"D provided\",\"answer\":\"D provided\"},{\"id\":231273,\"name\":\"<p>Câu 15: In the legal profession, men ___ women by five to one.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":15,\"page_id\":7487,\"created_at\":\"2025-09-23T04:10:16.000000Z\",\"updated_at\":\"2025-09-23T04:10:34.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p><strong>“In the legal profession, men ___ women by five to one.”</strong></p><ul><li><p><strong>outnumber</strong> = đông hơn, nhiều hơn về số lượng → <em>men outnumber women</em> = số lượng nam nhiều hơn nữ. ✔</p></li><li><p><strong>supersede</strong> = thay thế, thế chỗ (dùng cho quy định, công nghệ, người kế nhiệm → không hợp).</p></li><li><p><strong>overcome</strong> = vượt qua (khó khăn, thử thách → không hợp).</p></li><li><p><strong>outclass</strong> = vượt trội hơn hẳn (về chất lượng, năng lực → không dùng cho số lượng).</p></li></ul><p>👉 Do đó, đáp án chuẩn nhất: <strong>outnumber</strong>.</p>\",\"scoring_method\":1,\"answers\":[{\"id\":910619,\"name\":\"A outnumber\",\"note\":null,\"question_id\":231273},{\"id\":910620,\"name\":\"B supersede\",\"note\":null,\"question_id\":231273},{\"id\":910621,\"name\":\"C overcome\",\"note\":null,\"question_id\":231273},{\"id\":910622,\"name\":\"D outclass\",\"note\":null,\"question_id\":231273}],\"selecting_answers\":{\"id\":910622,\"name\":\"D outclass\",\"note\":null,\"question_id\":231273},\"answer_text\":\"D outclass\",\"answer\":\"D outclass\"},{\"id\":231274,\"name\":\"<p>Câu 16: The accused was given a short sentence as he had committed only a ___ offence.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":16,\"page_id\":7487,\"created_at\":\"2025-09-23T04:11:18.000000Z\",\"updated_at\":\"2025-09-23T04:11:43.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p><strong>“The accused was given a short sentence as he had committed only a ___ offence.”</strong></p><ul><li><p><strong>subordinate offence</strong> = không tự nhiên (subordinate thường chỉ “cấp dưới, phụ thuộc”, không dùng để mô tả “tội nhẹ”).</p></li><li><p><strong>minimal offence</strong> = nghe gượng, vì <em>minimal</em> = tối thiểu, thường đi với effort, risk, cost (minimal risk, minimal effort).</p></li><li><p><strong>secondary offence</strong> = nghĩa là “phụ, thứ yếu”, nhưng trong ngữ cảnh pháp lý không chuẩn để chỉ “tội nhẹ”.</p></li><li><p><strong>minor offence</strong> = tội nhẹ, tội ít nghiêm trọng → collocation chuẩn trong luật pháp. ✔</p></li></ul>\",\"scoring_method\":1,\"answers\":[{\"id\":910623,\"name\":\"A subordinate\",\"note\":null,\"question_id\":231274},{\"id\":910624,\"name\":\"B minimal\",\"note\":null,\"question_id\":231274},{\"id\":910625,\"name\":\"C secondary\",\"note\":null,\"question_id\":231274},{\"id\":910626,\"name\":\"D minor\",\"note\":null,\"question_id\":231274}],\"selecting_answers\":{\"id\":910626,\"name\":\"D minor\",\"note\":null,\"question_id\":231274},\"answer_text\":\"D minor\",\"answer\":\"D minor\"},{\"id\":231275,\"name\":\"<p>Câu 17: By the age of twenty-five he had ___ his ambition of becoming a pianist.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":17,\"page_id\":7487,\"created_at\":\"2025-09-23T04:12:25.000000Z\",\"updated_at\":\"2025-09-23T04:12:50.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p><strong>“By the age of twenty-five he had ___ his ambition of becoming a pianist.”</strong></p><ul><li><p><strong>reached his ambition</strong> ❌ → không tự nhiên, ta nói <em>reach an agreement/goal/decision</em> nhưng không nói <em>reach an ambition</em>.</p></li><li><p><strong>completed his ambition</strong> ❌ → <em>complete</em> dùng với task, project, course → không kết hợp với “ambition”.</p></li><li><p><strong>achieved his ambition</strong> ✔ → collocation chuẩn: <em>achieve an ambition/goal/dream</em> = đạt được tham vọng/ước mơ.</p></li><li><p><strong>obtained his ambition</strong> ❌ → <em>obtain</em> = đạt được (thông tin, giấy tờ, bằng cấp), không dùng với “ambition”.</p></li></ul><p>👉 Đáp án chuẩn: <strong>achieved</strong>.</p>\",\"scoring_method\":1,\"answers\":[{\"id\":910627,\"name\":\"A reached\",\"note\":null,\"question_id\":231275},{\"id\":910628,\"name\":\"B completed\",\"note\":null,\"question_id\":231275},{\"id\":910629,\"name\":\"C achieved\",\"note\":null,\"question_id\":231275},{\"id\":910630,\"name\":\"D obtained\",\"note\":null,\"question_id\":231275}],\"selecting_answers\":{\"id\":910630,\"name\":\"D obtained\",\"note\":null,\"question_id\":231275},\"answer_text\":\"D obtained\",\"answer\":\"D obtained\"},{\"id\":231276,\"name\":\"<p>Câu 18: ___ some countries have ruined their agriculture, squandering money on uneconomic factories, the Ivory Coast has stuck to what it is good at.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":18,\"page_id\":7487,\"created_at\":\"2025-09-23T04:13:31.000000Z\",\"updated_at\":\"2025-09-23T04:13:31.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":910631,\"name\":\"A After\",\"note\":null,\"question_id\":231276},{\"id\":910632,\"name\":\"B During\",\"note\":null,\"question_id\":231276},{\"id\":910633,\"name\":\"C When\",\"note\":null,\"question_id\":231276},{\"id\":910634,\"name\":\"D While\",\"note\":null,\"question_id\":231276}],\"selecting_answers\":{\"id\":910634,\"name\":\"D While\",\"note\":null,\"question_id\":231276},\"answer_text\":\"D While\",\"answer\":\"D While\"},{\"id\":231277,\"name\":\"<p>Câu 19: I’m just as ___ as you are to make this company successful.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":19,\"page_id\":7487,\"created_at\":\"2025-09-23T04:14:20.000000Z\",\"updated_at\":\"2025-09-23T04:14:40.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p><strong>“I’m just as ___ as you are to make this company successful.”</strong></p><ul><li><p><strong>dedicated</strong> = tận tâm, cống hiến → thường dùng: <em>dedicated to his work</em>, nhưng cấu trúc so sánh ở đây cần sắc thái “quyết tâm”, không phải “tận tâm”.</p></li><li><p><strong>serious</strong> = nghiêm túc → <em>serious about doing something</em>, có thể dùng nhưng không mạnh bằng “determined”, và không phải collocation hay đi với tham vọng/goal.</p></li><li><p><strong>wilful</strong> = cố ý, bướng bỉnh (mang nghĩa tiêu cực).</p></li><li><p><strong>determined</strong> = quyết tâm → <em>determined to do something</em> = quyết tâm làm gì đó → phù hợp và tự nhiên nhất. ✔</p></li></ul><p>👉 Đáp án: <strong>determined</strong>.</p>\",\"scoring_method\":1,\"answers\":[{\"id\":910635,\"name\":\"A dedicated\",\"note\":null,\"question_id\":231277},{\"id\":910636,\"name\":\"B serious\",\"note\":null,\"question_id\":231277},{\"id\":910637,\"name\":\"C wilful\",\"note\":null,\"question_id\":231277},{\"id\":910638,\"name\":\"D determined\",\"note\":null,\"question_id\":231277}],\"selecting_answers\":{\"id\":910638,\"name\":\"D determined\",\"note\":null,\"question_id\":231277},\"answer_text\":\"D determined\",\"answer\":\"D determined\"},{\"id\":231278,\"name\":\"<p>Câu 20: There is no evidence that any member of the Government is ___ in the current scandals.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":20,\"page_id\":7487,\"created_at\":\"2025-09-23T04:15:28.000000Z\",\"updated_at\":\"2025-09-23T04:15:52.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":\"<p><strong>“There is no evidence that any member of the Government is ___ in the current scandals.”</strong></p><ul><li><p><strong>connected in</strong> ❌ → phải nói <em>connected with/to</em>, nhưng trong bối cảnh “scandal” thì không tự nhiên.</p></li><li><p><strong>corrupted in</strong> ❌ → <em>corrupted</em> = bị tha hóa, biến chất (thường dùng cho “morally corrupted”), nhưng không đi với “in a scandal”.</p></li><li><p><strong>participated in</strong> ❌ → phải ở dạng chủ động <em>participated in scandals</em>, không dùng ở dạng bị động như câu này (<em>is participated</em> = sai ngữ pháp).</p></li><li><p><strong>implicated in</strong> ✔ → collocation chuẩn: <em>implicated in a crime/scandal</em> = bị dính líu, có liên quan đến.</p></li></ul><p>👉 Đáp án: <strong>implicated</strong>.</p>\",\"scoring_method\":1,\"answers\":[{\"id\":910639,\"name\":\"A connected\",\"note\":null,\"question_id\":231278},{\"id\":910640,\"name\":\"B corrupted\",\"note\":null,\"question_id\":231278},{\"id\":910641,\"name\":\"C participated\",\"note\":null,\"question_id\":231278},{\"id\":910642,\"name\":\"D implicated\",\"note\":null,\"question_id\":231278}],\"selecting_answers\":{\"id\":910642,\"name\":\"D implicated\",\"note\":null,\"question_id\":231278},\"answer_text\":\"D implicated\",\"answer\":\"D implicated\"}]}],\"setting\":{\"id\":6818,\"exam_id\":7155,\"time_limit\":1,\"time_limit_value\":30,\"created_at\":\"2025-09-23T04:17:14.000000Z\",\"updated_at\":\"2025-09-23T04:17:25.000000Z\"},\"category\":{\"id\":13,\"avatar\":\"\",\"name\":\"Tiếng Anh\",\"slug\":\"bai-tap-tieng-anh\",\"parent_id\":0,\"meta_title\":\"1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.\",\"meta_description\":\"Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.\",\"created_at\":\"2023-03-16T08:07:15.000000Z\",\"updated_at\":\"2024-10-07T08:59:23.000000Z\",\"h1_title\":\"Bài Tập Trắc Nghiệm Tiếng Anh\",\"short_description\":\"Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.\",\"deleted_at\":null,\"is_premium\":0,\"is_available_app\":0}}"
+    "postData": "{\"id\":5907,\"name\":\"Bài tập trắc nghiệm phân biệt Thì hiện tại đơn và Thì hiện tại tiếp diễn\",\"slug\":\"trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-tieng-anh-13\",\"avatar\":\"https://api.baitaptracnghiem.com/storage/images/KkanxDnWjDHC023Xl2B0KMjJrqqMIzvWjHN2uMta.jpg\",\"meta_title\":\"Bài tập trắc nghiệm phân biệt Thì hiện tại đơn và Thì hiện tại tiếp diễn\",\"meta_description\":\"Làm Bài tập trắc nghiệm phân biệt Thì hiện tại đơn và Thì hiện tại tiếp diễn. Có đáp án và chấm điểm. làm bài tập trắc nghiệm miễn phí, quản lý thời gian làm bài.\",\"description\":\"Bài tập trắc nghiệm phân biệt thì hiện tại đơn và thì hiện tại tiếp diễn online. Có chấm điểm kèm đáp án chi tiết 100% miễn phí.\",\"status\":\"new\",\"note\":null,\"time_out\":0,\"category_id\":13,\"created_at\":\"2024-05-09T09:46:07.000000Z\",\"updated_at\":\"2024-12-15T03:28:06.000000Z\",\"type\":\"html\",\"exam_order\":0,\"deleted_at\":null,\"topic_id\":13,\"creator_id\":null,\"is_premium\":0,\"year\":null,\"is_favorite\":false,\"has_collection\":false,\"in_team_exams\":false,\"questions_count\":20,\"category_name\":\"Tiếng Anh\",\"time_limit_value\":null,\"pages\":[{\"id\":6158,\"name\":\"I\",\"note\":\"<p><em>Chọn đáp án đúng.</em></p>\",\"order\":1,\"exam_id\":5907,\"created_at\":\"2024-05-09T09:46:28.000000Z\",\"updated_at\":\"2024-05-09T09:46:28.000000Z\",\"questions_file\":null,\"answers_file\":null,\"questions\":[{\"id\":200261,\"name\":\"<p><strong>Câu 1.</strong> What _____ for dinner?</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":1,\"page_id\":6158,\"created_at\":\"2024-05-09T09:47:14.000000Z\",\"updated_at\":\"2024-05-09T09:47:14.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788324,\"name\":\"A. do you usually have\",\"note\":null,\"question_id\":200261},{\"id\":788325,\"name\":\"B. are you usually having\",\"note\":null,\"question_id\":200261},{\"id\":788326,\"name\":\"C. are you usually going to have\",\"note\":null,\"question_id\":200261},{\"id\":788327,\"name\":\"D. does you usually have\",\"note\":null,\"question_id\":200261}],\"selecting_answers\":{\"id\":788327,\"name\":\"D. does you usually have\",\"note\":null,\"question_id\":200261},\"answer_text\":\"D. does you usually have\",\"answer\":\"D. does you usually have\"},{\"id\":200262,\"name\":\"<p><strong>Câu 2.</strong> The population of China _____ more and more.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":2,\"page_id\":6158,\"created_at\":\"2024-05-09T09:47:48.000000Z\",\"updated_at\":\"2024-05-09T09:47:48.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788328,\"name\":\"A. increases\",\"note\":null,\"question_id\":200262},{\"id\":788329,\"name\":\"B. increase\",\"note\":null,\"question_id\":200262},{\"id\":788330,\"name\":\"C. is increasing\",\"note\":null,\"question_id\":200262},{\"id\":788331,\"name\":\"D. are increasing\",\"note\":null,\"question_id\":200262}],\"selecting_answers\":{\"id\":788331,\"name\":\"D. are increasing\",\"note\":null,\"question_id\":200262},\"answer_text\":\"D. are increasing\",\"answer\":\"D. are increasing\"},{\"id\":200263,\"name\":\"<p><strong>Câu 3. </strong>Listen! The teacher _____</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":3,\"page_id\":6158,\"created_at\":\"2024-05-09T09:48:19.000000Z\",\"updated_at\":\"2024-05-09T09:48:19.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788332,\"name\":\"A. speaks\",\"note\":null,\"question_id\":200263},{\"id\":788333,\"name\":\"B. is speaking\",\"note\":null,\"question_id\":200263},{\"id\":788334,\"name\":\"C. speak\",\"note\":null,\"question_id\":200263},{\"id\":788335,\"name\":\"D. are speaking\",\"note\":null,\"question_id\":200263}],\"selecting_answers\":{\"id\":788335,\"name\":\"D. are speaking\",\"note\":null,\"question_id\":200263},\"answer_text\":\"D. are speaking\",\"answer\":\"D. are speaking\"},{\"id\":200264,\"name\":\"<p><strong>Câu 4.</strong> I _____ to school by bus every day.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":4,\"page_id\":6158,\"created_at\":\"2024-05-09T10:09:01.000000Z\",\"updated_at\":\"2024-05-09T10:09:01.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788336,\"name\":\"A. goes\",\"note\":null,\"question_id\":200264},{\"id\":788337,\"name\":\"B. am going\",\"note\":null,\"question_id\":200264},{\"id\":788338,\"name\":\"C. go\",\"note\":null,\"question_id\":200264},{\"id\":788339,\"name\":\"D. is going\",\"note\":null,\"question_id\":200264}],\"selecting_answers\":{\"id\":788339,\"name\":\"D. is going\",\"note\":null,\"question_id\":200264},\"answer_text\":\"D. is going\",\"answer\":\"D. is going\"},{\"id\":200265,\"name\":\"<p><strong>Câu 5.</strong> I _____ drinking apple juice.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":5,\"page_id\":6158,\"created_at\":\"2024-05-09T10:09:30.000000Z\",\"updated_at\":\"2024-05-09T10:09:30.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788340,\"name\":\"A. like\",\"note\":null,\"question_id\":200265},{\"id\":788341,\"name\":\"B. am liking\",\"note\":null,\"question_id\":200265},{\"id\":788342,\"name\":\"C. likes\",\"note\":null,\"question_id\":200265}],\"selecting_answers\":{\"id\":788342,\"name\":\"C. likes\",\"note\":null,\"question_id\":200265},\"answer_text\":\"C. likes\",\"answer\":\"C. likes\"},{\"id\":200266,\"name\":\"<p><strong>Câu 6.</strong> My brother often goes to school by bus, but today he _____ to school by bike.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":6,\"page_id\":6158,\"created_at\":\"2024-05-09T11:58:44.000000Z\",\"updated_at\":\"2024-05-09T11:58:44.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788343,\"name\":\"A. goes\",\"note\":null,\"question_id\":200266},{\"id\":788344,\"name\":\"B. is going\",\"note\":null,\"question_id\":200266},{\"id\":788345,\"name\":\"C. go\",\"note\":null,\"question_id\":200266},{\"id\":788346,\"name\":\"D. are going\",\"note\":null,\"question_id\":200266}],\"selecting_answers\":{\"id\":788346,\"name\":\"D. are going\",\"note\":null,\"question_id\":200266},\"answer_text\":\"D. are going\",\"answer\":\"D. are going\"},{\"id\":200267,\"name\":\"<p><strong>Câu 7.</strong> They _____ with us at the moment.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":7,\"page_id\":6158,\"created_at\":\"2024-05-09T11:59:16.000000Z\",\"updated_at\":\"2024-05-09T11:59:16.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788347,\"name\":\"A. is staying\",\"note\":null,\"question_id\":200267},{\"id\":788348,\"name\":\"B. staying\",\"note\":null,\"question_id\":200267},{\"id\":788349,\"name\":\"C. stay\",\"note\":null,\"question_id\":200267},{\"id\":788350,\"name\":\"D. are staying\",\"note\":null,\"question_id\":200267}],\"selecting_answers\":{\"id\":788350,\"name\":\"D. are staying\",\"note\":null,\"question_id\":200267},\"answer_text\":\"D. are staying\",\"answer\":\"D. are staying\"},{\"id\":200268,\"name\":\"<p><strong>Câu 8.</strong> _____ Peter _____ Mary?</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":8,\"page_id\":6158,\"created_at\":\"2024-05-09T12:00:01.000000Z\",\"updated_at\":\"2024-05-09T12:00:01.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788351,\"name\":\"A. Does – know\",\"note\":null,\"question_id\":200268},{\"id\":788352,\"name\":\"B. Is – knowing\",\"note\":null,\"question_id\":200268},{\"id\":788353,\"name\":\"C. Does – knows\",\"note\":null,\"question_id\":200268},{\"id\":788354,\"name\":\"D. Do – knows\",\"note\":null,\"question_id\":200268}],\"selecting_answers\":{\"id\":788354,\"name\":\"D. Do – knows\",\"note\":null,\"question_id\":200268},\"answer_text\":\"D. Do – knows\",\"answer\":\"D. Do – knows\"},{\"id\":200269,\"name\":\"<p><strong>Câu 9.</strong> I usually _____ shopping with my mother on Sundays.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":9,\"page_id\":6158,\"created_at\":\"2024-05-09T12:01:06.000000Z\",\"updated_at\":\"2024-05-09T12:01:06.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788355,\"name\":\"A. am going\",\"note\":null,\"question_id\":200269},{\"id\":788356,\"name\":\"B. goes\",\"note\":null,\"question_id\":200269},{\"id\":788357,\"name\":\"C. go\",\"note\":null,\"question_id\":200269},{\"id\":788358,\"name\":\"D. is going\",\"note\":null,\"question_id\":200269}],\"selecting_answers\":{\"id\":788358,\"name\":\"D. is going\",\"note\":null,\"question_id\":200269},\"answer_text\":\"D. is going\",\"answer\":\"D. is going\"},{\"id\":200270,\"name\":\"<p><strong>Câu 10.</strong> I _____ for a bicycle, but I can’t find anything good.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":10,\"page_id\":6158,\"created_at\":\"2024-05-09T12:01:35.000000Z\",\"updated_at\":\"2024-05-09T12:01:35.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788359,\"name\":\"A. am looking\",\"note\":null,\"question_id\":200270},{\"id\":788360,\"name\":\"B. look\",\"note\":null,\"question_id\":200270},{\"id\":788361,\"name\":\"C. looks\",\"note\":null,\"question_id\":200270},{\"id\":788362,\"name\":\"D. is looking\",\"note\":null,\"question_id\":200270}],\"selecting_answers\":{\"id\":788362,\"name\":\"D. is looking\",\"note\":null,\"question_id\":200270},\"answer_text\":\"D. is looking\",\"answer\":\"D. is looking\"},{\"id\":200271,\"name\":\"<p><strong>Câu 11.</strong> Look! He (leave) _____ the house.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":11,\"page_id\":6158,\"created_at\":\"2024-05-09T12:03:09.000000Z\",\"updated_at\":\"2024-05-09T12:03:09.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788363,\"name\":\"A. leaves\",\"note\":null,\"question_id\":200271},{\"id\":788364,\"name\":\"B. is leaving\",\"note\":null,\"question_id\":200271},{\"id\":788365,\"name\":\"C. leave\",\"note\":null,\"question_id\":200271},{\"id\":788366,\"name\":\"D. are leaving\",\"note\":null,\"question_id\":200271}],\"selecting_answers\":{\"id\":788366,\"name\":\"D. are leaving\",\"note\":null,\"question_id\":200271},\"answer_text\":\"D. are leaving\",\"answer\":\"D. are leaving\"},{\"id\":200272,\"name\":\"<p><strong>Câu 12.</strong> Quiet please! I (write) _____ a test.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":12,\"page_id\":6158,\"created_at\":\"2024-05-09T12:03:35.000000Z\",\"updated_at\":\"2024-05-09T12:03:35.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788367,\"name\":\"A. write\",\"note\":null,\"question_id\":200272},{\"id\":788368,\"name\":\"B. am writing\",\"note\":null,\"question_id\":200272},{\"id\":788369,\"name\":\"C. writes\",\"note\":null,\"question_id\":200272},{\"id\":788370,\"name\":\"D. is writing\",\"note\":null,\"question_id\":200272}],\"selecting_answers\":{\"id\":788370,\"name\":\"D. is writing\",\"note\":null,\"question_id\":200272},\"answer_text\":\"D. is writing\",\"answer\":\"D. is writing\"},{\"id\":200273,\"name\":\"<p><strong>Câu 13.</strong> She usually (walk) _____ to school.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":13,\"page_id\":6158,\"created_at\":\"2024-05-09T12:04:08.000000Z\",\"updated_at\":\"2024-05-09T12:04:08.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788372,\"name\":\"B. is walking\",\"note\":null,\"question_id\":200273},{\"id\":788373,\"name\":\"C. walk\",\"note\":null,\"question_id\":200273},{\"id\":788374,\"name\":\"D. are walking\",\"note\":null,\"question_id\":200273}],\"selecting_answers\":{\"id\":788374,\"name\":\"D. are walking\",\"note\":null,\"question_id\":200273},\"answer_text\":\"D. are walking\",\"answer\":\"D. are walking\"},{\"id\":200274,\"name\":\"<p><strong>Câu 14.</strong> But look! Today she (go) _____ by bike.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":14,\"page_id\":6158,\"created_at\":\"2024-05-09T12:04:41.000000Z\",\"updated_at\":\"2024-05-09T12:04:41.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788375,\"name\":\"A. goes\",\"note\":null,\"question_id\":200274},{\"id\":788376,\"name\":\"B. is going\",\"note\":null,\"question_id\":200274},{\"id\":788377,\"name\":\"C. go\",\"note\":null,\"question_id\":200274},{\"id\":788378,\"name\":\"D. are going\",\"note\":null,\"question_id\":200274}],\"selecting_answers\":{\"id\":788378,\"name\":\"D. are going\",\"note\":null,\"question_id\":200274},\"answer_text\":\"D. are going\",\"answer\":\"D. are going\"},{\"id\":200275,\"name\":\"<p><strong>Câu 15.</strong> Every Sunday we (go) _____ to see my grandparents.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":15,\"page_id\":6158,\"created_at\":\"2024-05-09T12:05:20.000000Z\",\"updated_at\":\"2024-05-09T12:05:20.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788379,\"name\":\"A. is going\",\"note\":null,\"question_id\":200275},{\"id\":788380,\"name\":\"B. are going\",\"note\":null,\"question_id\":200275},{\"id\":788381,\"name\":\"C. goes\",\"note\":null,\"question_id\":200275},{\"id\":788382,\"name\":\"D. go\",\"note\":null,\"question_id\":200275}],\"selecting_answers\":{\"id\":788382,\"name\":\"D. go\",\"note\":null,\"question_id\":200275},\"answer_text\":\"D. go\",\"answer\":\"D. go\"},{\"id\":200276,\"name\":\"<p><strong>Câu 16.</strong> He often (go) _____ to the cinema.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":16,\"page_id\":6158,\"created_at\":\"2024-05-09T12:06:18.000000Z\",\"updated_at\":\"2024-05-09T12:06:18.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788383,\"name\":\"A. is going\",\"note\":null,\"question_id\":200276},{\"id\":788384,\"name\":\"B. goes\",\"note\":null,\"question_id\":200276},{\"id\":788385,\"name\":\"C. go\",\"note\":null,\"question_id\":200276},{\"id\":788386,\"name\":\"D. are going\",\"note\":null,\"question_id\":200276}],\"selecting_answers\":{\"id\":788386,\"name\":\"D. are going\",\"note\":null,\"question_id\":200276},\"answer_text\":\"D. are going\",\"answer\":\"D. are going\"},{\"id\":200277,\"name\":\"<p><strong>Câu 17.</strong> We (play) _____ Monopoly at the moment.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":17,\"page_id\":6158,\"created_at\":\"2024-05-09T12:06:58.000000Z\",\"updated_at\":\"2024-05-09T12:06:58.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788387,\"name\":\"A. play\",\"note\":null,\"question_id\":200277},{\"id\":788388,\"name\":\"B. are playing\",\"note\":null,\"question_id\":200277},{\"id\":788389,\"name\":\"C. plays\",\"note\":null,\"question_id\":200277},{\"id\":788390,\"name\":\"D. is playing\",\"note\":null,\"question_id\":200277}],\"selecting_answers\":{\"id\":788390,\"name\":\"D. is playing\",\"note\":null,\"question_id\":200277},\"answer_text\":\"D. is playing\",\"answer\":\"D. is playing\"},{\"id\":200278,\"name\":\"<p><strong>Câu 18. </strong>The child seldom (cry) _____</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":18,\"page_id\":6158,\"created_at\":\"2024-05-09T12:07:25.000000Z\",\"updated_at\":\"2024-05-09T12:07:25.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788391,\"name\":\"A. cry\",\"note\":null,\"question_id\":200278},{\"id\":788392,\"name\":\"B. is crying\",\"note\":null,\"question_id\":200278},{\"id\":788393,\"name\":\"C. cries\",\"note\":null,\"question_id\":200278},{\"id\":788394,\"name\":\"D. are crying\",\"note\":null,\"question_id\":200278}],\"selecting_answers\":{\"id\":788394,\"name\":\"D. are crying\",\"note\":null,\"question_id\":200278},\"answer_text\":\"D. are crying\",\"answer\":\"D. are crying\"},{\"id\":200279,\"name\":\"<p><strong>Câu 19.</strong> I (not/ do) _____ anything at the moment.</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":19,\"page_id\":6158,\"created_at\":\"2024-05-09T12:12:15.000000Z\",\"updated_at\":\"2024-05-09T12:12:24.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788395,\"name\":\"A. do not\",\"note\":null,\"question_id\":200279},{\"id\":788396,\"name\":\"B. am not doing\",\"note\":null,\"question_id\":200279},{\"id\":788397,\"name\":\"C. does not\",\"note\":null,\"question_id\":200279},{\"id\":788398,\"name\":\"D. isn’t doing\",\"note\":null,\"question_id\":200279}],\"selecting_answers\":{\"id\":788398,\"name\":\"D. isn’t doing\",\"note\":null,\"question_id\":200279},\"answer_text\":\"D. isn’t doing\",\"answer\":\"D. isn’t doing\"},{\"id\":200280,\"name\":\"<p><strong>Câu 20.</strong> (watch/ he) _____ the news regularly?</p>\",\"note\":null,\"type\":\"SINGLE_ANSWER\",\"order\":20,\"page_id\":6158,\"created_at\":\"2024-05-09T12:12:47.000000Z\",\"updated_at\":\"2024-05-09T12:12:47.000000Z\",\"source\":null,\"status\":\"good\",\"explain_answer\":null,\"scoring_method\":1,\"answers\":[{\"id\":788399,\"name\":\"A. Are he watching\",\"note\":null,\"question_id\":200280},{\"id\":788400,\"name\":\"B. Is he watching\",\"note\":null,\"question_id\":200280},{\"id\":788401,\"name\":\"C. Do he watch\",\"note\":null,\"question_id\":200280},{\"id\":788402,\"name\":\"D. Does he watch\",\"note\":null,\"question_id\":200280}],\"selecting_answers\":{\"id\":788402,\"name\":\"D. Does he watch\",\"note\":null,\"question_id\":200280},\"answer_text\":\"D. Does he watch\",\"answer\":\"D. Does he watch\"}]}],\"setting\":null,\"category\":{\"id\":13,\"avatar\":\"\",\"name\":\"Tiếng Anh\",\"slug\":\"bai-tap-tieng-anh\",\"parent_id\":0,\"meta_title\":\"1500+ câu trắc nghiệm Tiếng Anh online. Ôn tập kiến thức ngữ pháp Tiếng Anh cơ bản qua hơn 90 đề thi có đáp án, chấm điểm, miễn phí.\",\"meta_description\":\"Tổng hợp hơn 90 bài tập trắc nghiệm tiếng anh online hay nhất. Đa dạng và có đáp án chi tiết. Hoàn toàn miễn phí, không cần đăng nhập.\",\"created_at\":\"2023-03-16T08:07:15.000000Z\",\"updated_at\":\"2024-10-07T08:59:23.000000Z\",\"h1_title\":\"Bài Tập Trắc Nghiệm Tiếng Anh\",\"short_description\":\"Làm bài tập trắc nghiệm môn Tiếng Anh cơ bản online miễn phí, kèm lời giải. Ôn tập kiến thức về các thì, mẫu câu, ngữ pháp tiếng Anh.\",\"deleted_at\":null,\"is_premium\":0,\"is_available_app\":0}}"
   },
   {
     "url": "https://api.baitaptracnghiem.com/api/v1/web/exam/submit",
     "status": 200,
     "body": {
       "totalQuestion": 20,
-      "correctAnswers": 8,
-      "score": 4,
+      "correctAnswers": 3,
+      "score": 1.5,
       "exam": {
-        "id": 7155,
-        "name": "Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #3",
-        "slug": "bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-3",
-        "avatar": "https://assets.baitaptracnghiem.com/tracnghiem/rEmaFoJ2sqQx3kIBAP25N1aktfhalCIQ8neLa7A2.jpg",
-        "meta_title": "Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #1",
-        "meta_description": "Làm bài tập trắc nghiệm từ vựng và ngữ pháp tiếng anh nâng cao số 3. Ôn luyện các collocation chuẩn trong tiếng anh,",
-        "description": null,
+        "id": 5907,
+        "name": "Bài tập trắc nghiệm phân biệt Thì hiện tại đơn và Thì hiện tại tiếp diễn",
+        "slug": "trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-tieng-anh-13",
+        "avatar": "https://api.baitaptracnghiem.com/storage/images/KkanxDnWjDHC023Xl2B0KMjJrqqMIzvWjHN2uMta.jpg",
+        "meta_title": "Bài tập trắc nghiệm phân biệt Thì hiện tại đơn và Thì hiện tại tiếp diễn",
+        "meta_description": "Làm Bài tập trắc nghiệm phân biệt Thì hiện tại đơn và Thì hiện tại tiếp diễn. Có đáp án và chấm điểm. làm bài tập trắc nghiệm miễn phí, quản lý thời gian làm bài.",
+        "description": "Bài tập trắc nghiệm phân biệt thì hiện tại đơn và thì hiện tại tiếp diễn online. Có chấm điểm kèm đáp án chi tiết 100% miễn phí.",
         "status": "new",
         "note": null,
         "time_out": 0,
         "category_id": 13,
-        "created_at": "2025-09-23T03:38:15.000000Z",
-        "updated_at": "2025-09-23T04:30:08.000000Z",
+        "created_at": "2024-05-09T09:46:07.000000Z",
+        "updated_at": "2024-12-15T03:28:06.000000Z",
         "type": "html",
         "exam_order": 0,
         "deleted_at": null,
-        "topic_id": null,
+        "topic_id": 13,
         "creator_id": null,
         "is_premium": 0,
         "year": null,
@@ -37,1050 +37,1031 @@
         "in_team_exams": false,
         "questions_count": 20,
         "category_name": "Tiếng Anh",
-        "time_limit_value": 30,
+        "time_limit_value": null,
         "pages": [
           {
-            "id": 7487,
-            "name": "Bài tập trắc nghiệm từ vựng và ngữ pháp Tiếng Anh- Số #3",
-            "note": "<p>Chọn một đáp án đúng.</p>",
+            "id": 6158,
+            "name": "I",
+            "note": "<p><em>Chọn đáp án đúng.</em></p>",
             "order": 1,
-            "exam_id": 7155,
-            "created_at": "2025-09-23T03:38:57.000000Z",
-            "updated_at": "2025-09-23T03:38:57.000000Z",
+            "exam_id": 5907,
+            "created_at": "2024-05-09T09:46:28.000000Z",
+            "updated_at": "2024-05-09T09:46:28.000000Z",
             "questions_file": null,
             "answers_file": null,
             "questions": [
               {
-                "id": 231259,
-                "name": "<p>Câu 1: He completely ___ with what I said.</p>",
+                "id": 200261,
+                "name": "<p><strong>Câu 1.</strong> What _____ for dinner?</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 1,
-                "page_id": 7487,
-                "created_at": "2025-09-23T03:39:55.000000Z",
-                "updated_at": "2025-09-23T03:39:55.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T09:47:14.000000Z",
+                "updated_at": "2024-05-09T09:47:14.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910563,
-                    "name": "A admitted",
+                    "id": 788324,
+                    "name": "A. do you usually have",
                     "note": null,
-                    "question_id": 231259
+                    "question_id": 200261
                   },
                   {
-                    "id": 910564,
-                    "name": "B agreed",
+                    "id": 788325,
+                    "name": "B. are you usually having",
                     "note": null,
-                    "question_id": 231259
+                    "question_id": 200261
                   },
                   {
-                    "id": 910565,
-                    "name": "C accepted",
+                    "id": 788326,
+                    "name": "C. are you usually going to have",
                     "note": null,
-                    "question_id": 231259
+                    "question_id": 200261
                   },
                   {
-                    "id": 910566,
-                    "name": "D argued",
+                    "id": 788327,
+                    "name": "D. does you usually have",
                     "note": null,
-                    "question_id": 231259
+                    "question_id": 200261
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910566,
-                  "name": "D argued",
+                  "id": 788327,
+                  "name": "D. does you usually have",
                   "note": null,
-                  "question_id": 231259
+                  "question_id": 200261
                 },
-                "answer_text": "D argued",
-                "answer": "B agreed",
+                "answer_text": "D. does you usually have",
+                "answer": "A. do you usually have",
                 "isCorrect": false,
-                "answered": "D argued",
-                "correctAnswer": "B agreed"
+                "answered": "D. does you usually have",
+                "correctAnswer": "A. do you usually have"
               },
               {
-                "id": 231260,
-                "name": "<p>Câu 2: For elderly people, one of the problems ___ by rising prices is the continual increase in heating bills.</p>",
+                "id": 200262,
+                "name": "<p><strong>Câu 2.</strong> The population of China _____ more and more.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 2,
-                "page_id": 7487,
-                "created_at": "2025-09-23T03:42:25.000000Z",
-                "updated_at": "2025-09-23T03:44:13.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T09:47:48.000000Z",
+                "updated_at": "2024-05-09T09:47:48.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<h3>1. <strong>Pose</strong></h3><ul><li><p>Khi nói <em>“a problem posed by …”</em>, ta ngầm hiểu: <strong>một vấn đề được đặt ra, được gây ra bởi …</strong></p></li><li><p>“Pose” thường đi với <strong>problem, challenge, question, risk, threat</strong>.</p></li><li><p>Nó mang sắc thái trung tính, thiên về <strong>đặt ra, gây ra tình huống để phải xử lý</strong>.</p></li></ul><p>Ví dụ:</p><ul><li><p><em>The new policy poses a challenge for small businesses.</em><br>→ Chính sách mới đặt ra một thách thức cho các doanh nghiệp nhỏ.</p></li></ul><hr><h3>2. <strong>Given by</strong></h3><ul><li><p>“Give” thiên về <strong>trao, cung cấp</strong>.</p></li><li><p><em>A problem given by rising prices</em> nghe <strong>không tự nhiên</strong>, vì “give” thường không đi với “problem”. Người bản ngữ không nói vậy.</p></li></ul><hr><h3>3. <strong>Pressed by</strong></h3><ul><li><p>“Press” = <strong>bị ép, bị đè nặng</strong>.</p></li><li><p><em>Pressed by rising prices</em> có thể dùng, nhưng nó mô tả <strong>con người</strong> bị áp lực, chứ không nói về <strong>vấn đề được gây ra</strong>.</p><ul><li><p>Ví dụ: <em>Elderly people are pressed by rising prices.</em> (Người cao tuổi bị áp lực vì giá cả tăng cao).</p></li></ul></li><li><p>Nhưng để nói <em>một vấn đề do cái gì gây ra</em>, không dùng “press”.</p></li></ul><hr><h3>4. <strong>Forced by</strong></h3><ul><li><p>“Force” = <strong>ép buộc</strong>.</p></li><li><p>Nếu nói <em>forced by rising prices</em>, thì phải có hành động đi kèm:</p><ul><li><p><em>Elderly people are forced by rising prices to cut down on heating.</em><br>→ Người cao tuổi buộc phải giảm chi phí sưởi ấm do giá cả leo thang.</p></li></ul></li><li><p>Nó không tự nhiên khi đi với “problem”.</p></li></ul><hr><p>✅ Vì vậy, người viết dùng <strong>“posed by”</strong> vì:</p><ul><li><p>Đây là collocation (cụm từ thường đi với nhau).</p></li><li><p>“Problem posed by …” là cách</p></li></ul>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910567,
-                    "name": "A given",
+                    "id": 788328,
+                    "name": "A. increases",
                     "note": null,
-                    "question_id": 231260
+                    "question_id": 200262
                   },
                   {
-                    "id": 910568,
-                    "name": "B posed",
+                    "id": 788329,
+                    "name": "B. increase",
                     "note": null,
-                    "question_id": 231260
+                    "question_id": 200262
                   },
                   {
-                    "id": 910569,
-                    "name": "C pressed",
+                    "id": 788330,
+                    "name": "C. is increasing",
                     "note": null,
-                    "question_id": 231260
+                    "question_id": 200262
                   },
                   {
-                    "id": 910570,
-                    "name": "D forced",
+                    "id": 788331,
+                    "name": "D. are increasing",
                     "note": null,
-                    "question_id": 231260
+                    "question_id": 200262
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910570,
-                  "name": "D forced",
+                  "id": 788331,
+                  "name": "D. are increasing",
                   "note": null,
-                  "question_id": 231260
+                  "question_id": 200262
                 },
-                "answer_text": "D forced",
-                "answer": "B posed",
+                "answer_text": "D. are increasing",
+                "answer": "C. is increasing",
                 "isCorrect": false,
-                "answered": "D forced",
-                "correctAnswer": "B posed"
+                "answered": "D. are increasing",
+                "correctAnswer": "C. is increasing"
               },
               {
-                "id": 231261,
-                "name": "<p>Câu 3: I don’t see any ___ in arriving early at the theatre if the show doesn’t start until 9 o’clock.</p>",
+                "id": 200263,
+                "name": "<p><strong>Câu 3. </strong>Listen! The teacher _____</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 3,
-                "page_id": 7487,
-                "created_at": "2025-09-23T03:46:09.000000Z",
-                "updated_at": "2025-09-23T03:46:20.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T09:48:19.000000Z",
+                "updated_at": "2024-05-09T09:48:19.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<p>“I don’t see any ___ in arriving early at the theatre if the show doesn’t start until 9 o’clock.”</p><p>cause = nguyên nhân (không phù hợp vì câu này nói về \"sự hợp lý/ý nghĩa\", không phải \"nguyên nhân\").</p><p>aim = mục đích (thường dùng khi chủ động có mục đích làm gì đó, nhưng ở đây không tự nhiên).</p><p>point = ý nghĩa, sự hợp lý, lý do chính đáng → cụm quen thuộc: “I don’t see the point (in doing something)” = Tôi không thấy có ích gì / không thấy ý nghĩa gì khi làm việc đó.</p><p>reason = lý do (cũng gần nghĩa, nhưng cấu trúc chuẩn trong tiếng Anh là “see any reason why …”, chứ không phải “see any reason in doing …”).</p><p>👉 Vì vậy, đáp án chuẩn nhất là C. point.</p>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910571,
-                    "name": "A cause",
+                    "id": 788332,
+                    "name": "A. speaks",
                     "note": null,
-                    "question_id": 231261
+                    "question_id": 200263
                   },
                   {
-                    "id": 910572,
-                    "name": "B aim",
+                    "id": 788333,
+                    "name": "B. is speaking",
                     "note": null,
-                    "question_id": 231261
+                    "question_id": 200263
                   },
                   {
-                    "id": 910573,
-                    "name": "C point",
+                    "id": 788334,
+                    "name": "C. speak",
                     "note": null,
-                    "question_id": 231261
+                    "question_id": 200263
                   },
                   {
-                    "id": 910574,
-                    "name": "D reason",
+                    "id": 788335,
+                    "name": "D. are speaking",
                     "note": null,
-                    "question_id": 231261
+                    "question_id": 200263
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910574,
-                  "name": "D reason",
+                  "id": 788335,
+                  "name": "D. are speaking",
                   "note": null,
-                  "question_id": 231261
+                  "question_id": 200263
                 },
-                "answer_text": "D reason",
-                "answer": "C point",
+                "answer_text": "D. are speaking",
+                "answer": "B. is speaking",
                 "isCorrect": false,
-                "answered": "D reason",
-                "correctAnswer": "C point"
+                "answered": "D. are speaking",
+                "correctAnswer": "B. is speaking"
               },
               {
-                "id": 231262,
-                "name": "<p>Câu 4: This man is so arrogant that he is completely ___ to all criticism.</p>",
+                "id": 200264,
+                "name": "<p><strong>Câu 4.</strong> I _____ to school by bus every day.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 4,
-                "page_id": 7487,
-                "created_at": "2025-09-23T03:47:58.000000Z",
-                "updated_at": "2025-09-23T03:48:09.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T10:09:01.000000Z",
+                "updated_at": "2024-05-09T10:09:01.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<p><strong>“This man is so arrogant that he is completely ___ to all criticism.”</strong></p><ul><li><p><strong>impervious to</strong> = <strong>không bị ảnh hưởng bởi, miễn nhiễm với</strong>.<br>→ Đây là cụm collocation chuẩn: <em>impervious to criticism</em> = không bị ảnh hưởng bởi lời chỉ trích.</p></li><li><p><strong>unaware of</strong> = không nhận thức được về cái gì.<br>→ Nhưng ở đây người đàn ông kiêu ngạo, nghĩa là ông <strong>biết nhưng không quan tâm</strong>, không phải “không biết”.</p></li><li><p><strong>regardless of</strong> = bất chấp, không màng đến.<br>→ Thường dùng trong cụm <em>regardless of something</em>, chứ không đi sau “completely ___ to”.</p></li><li><p><strong>unconscious of</strong> = bất tỉnh / không ý thức được.<br>→ Mang nghĩa thể chất nhiều hơn (mất ý thức), không tự nhiên khi nói về “criticism”.</p></li></ul><p>👉 Vì vậy, <strong>impervious</strong> mới chính xác nhất.</p>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910575,
-                    "name": "A impervious",
+                    "id": 788336,
+                    "name": "A. goes",
                     "note": null,
-                    "question_id": 231262
+                    "question_id": 200264
                   },
                   {
-                    "id": 910576,
-                    "name": "B unaware",
+                    "id": 788337,
+                    "name": "B. am going",
                     "note": null,
-                    "question_id": 231262
+                    "question_id": 200264
                   },
                   {
-                    "id": 910577,
-                    "name": "C regardless",
+                    "id": 788338,
+                    "name": "C. go",
                     "note": null,
-                    "question_id": 231262
+                    "question_id": 200264
                   },
                   {
-                    "id": 910578,
-                    "name": "D unconscious",
+                    "id": 788339,
+                    "name": "D. is going",
                     "note": null,
-                    "question_id": 231262
+                    "question_id": 200264
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910578,
-                  "name": "D unconscious",
+                  "id": 788339,
+                  "name": "D. is going",
                   "note": null,
-                  "question_id": 231262
+                  "question_id": 200264
                 },
-                "answer_text": "D unconscious",
-                "answer": "A impervious",
+                "answer_text": "D. is going",
+                "answer": "C. go",
                 "isCorrect": false,
-                "answered": "D unconscious",
-                "correctAnswer": "A impervious"
+                "answered": "D. is going",
+                "correctAnswer": "C. go"
               },
               {
-                "id": 231263,
-                "name": "<p>Câu 5: He filled in the necessary forms and ___ for the job.</p>",
+                "id": 200265,
+                "name": "<p><strong>Câu 5.</strong> I _____ drinking apple juice.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 5,
-                "page_id": 7487,
-                "created_at": "2025-09-23T03:50:28.000000Z",
-                "updated_at": "2025-09-23T03:50:28.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T10:09:30.000000Z",
+                "updated_at": "2024-05-09T10:09:30.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910579,
-                    "name": "A appealed",
+                    "id": 788340,
+                    "name": "A. like",
                     "note": null,
-                    "question_id": 231263
+                    "question_id": 200265
                   },
                   {
-                    "id": 910580,
-                    "name": "B asked",
+                    "id": 788341,
+                    "name": "B. am liking",
                     "note": null,
-                    "question_id": 231263
+                    "question_id": 200265
                   },
                   {
-                    "id": 910581,
-                    "name": "C requested",
+                    "id": 788342,
+                    "name": "C. likes",
                     "note": null,
-                    "question_id": 231263
-                  },
-                  {
-                    "id": 910582,
-                    "name": "D applied",
-                    "note": null,
-                    "question_id": 231263
+                    "question_id": 200265
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910582,
-                  "name": "D applied",
+                  "id": 788342,
+                  "name": "C. likes",
                   "note": null,
-                  "question_id": 231263
+                  "question_id": 200265
                 },
-                "answer_text": "D applied",
-                "answer": "D applied",
-                "isCorrect": true,
-                "answered": "D applied",
-                "correctAnswer": "D applied"
+                "answer_text": "C. likes",
+                "answer": "A. like",
+                "isCorrect": false,
+                "answered": "C. likes",
+                "correctAnswer": "A. like"
               },
               {
-                "id": 231264,
-                "name": "<p>Câu 6: I heard the sound of the blind man ___ with his stick.</p>",
+                "id": 200266,
+                "name": "<p><strong>Câu 6.</strong> My brother often goes to school by bus, but today he _____ to school by bike.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 6,
-                "page_id": 7487,
-                "created_at": "2025-09-23T03:54:04.000000Z",
-                "updated_at": "2025-09-23T03:58:50.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T11:58:44.000000Z",
+                "updated_at": "2024-05-09T11:58:44.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<ul><li><p><strong>creaking</strong> = kêu cót két (thường dùng cho cửa, sàn gỗ, ghế → không hợp).</p></li><li><p><strong>ticking</strong> = tích tắc (dùng cho đồng hồ → không hợp).</p></li><li><p><strong>tapping</strong> = gõ nhẹ, chạm nhẹ ( giống như chạm vào màn hình điện thoại)</p></li><li><p><strong>rapping</strong> = gõ mạnh, gõ cộc cộc, mang sắc thái mạnh hơn tapping → rất hợp với hình ảnh người mù dùng gậy gõ xuống đất để dò đường.</p></li></ul>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910583,
-                    "name": "A creaking",
+                    "id": 788343,
+                    "name": "A. goes",
                     "note": null,
-                    "question_id": 231264
+                    "question_id": 200266
                   },
                   {
-                    "id": 910584,
-                    "name": "B ticking",
+                    "id": 788344,
+                    "name": "B. is going",
                     "note": null,
-                    "question_id": 231264
+                    "question_id": 200266
                   },
                   {
-                    "id": 910585,
-                    "name": "C tapping",
+                    "id": 788345,
+                    "name": "C. go",
                     "note": null,
-                    "question_id": 231264
+                    "question_id": 200266
                   },
                   {
-                    "id": 910586,
-                    "name": "D rapping",
+                    "id": 788346,
+                    "name": "D. are going",
                     "note": null,
-                    "question_id": 231264
+                    "question_id": 200266
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910586,
-                  "name": "D rapping",
+                  "id": 788346,
+                  "name": "D. are going",
                   "note": null,
-                  "question_id": 231264
+                  "question_id": 200266
                 },
-                "answer_text": "D rapping",
-                "answer": "D rapping",
-                "isCorrect": true,
-                "answered": "D rapping",
-                "correctAnswer": "D rapping"
+                "answer_text": "D. are going",
+                "answer": "B. is going",
+                "isCorrect": false,
+                "answered": "D. are going",
+                "correctAnswer": "B. is going"
               },
               {
-                "id": 231265,
-                "name": "<p>Câu 7: Give me a word ___ with S.</p>",
+                "id": 200267,
+                "name": "<p><strong>Câu 7.</strong> They _____ with us at the moment.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 7,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:01:18.000000Z",
-                "updated_at": "2025-09-23T04:01:18.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T11:59:16.000000Z",
+                "updated_at": "2024-05-09T11:59:16.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910587,
-                    "name": "A beginning",
+                    "id": 788347,
+                    "name": "A. is staying",
                     "note": null,
-                    "question_id": 231265
+                    "question_id": 200267
                   },
                   {
-                    "id": 910588,
-                    "name": "B begins",
+                    "id": 788348,
+                    "name": "B. staying",
                     "note": null,
-                    "question_id": 231265
+                    "question_id": 200267
                   },
                   {
-                    "id": 910589,
-                    "name": "C began",
+                    "id": 788349,
+                    "name": "C. stay",
                     "note": null,
-                    "question_id": 231265
+                    "question_id": 200267
                   },
                   {
-                    "id": 910590,
-                    "name": "D begin",
+                    "id": 788350,
+                    "name": "D. are staying",
                     "note": null,
-                    "question_id": 231265
+                    "question_id": 200267
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910590,
-                  "name": "D begin",
+                  "id": 788350,
+                  "name": "D. are staying",
                   "note": null,
-                  "question_id": 231265
+                  "question_id": 200267
                 },
-                "answer_text": "D begin",
-                "answer": "A beginning",
-                "isCorrect": false,
-                "answered": "D begin",
-                "correctAnswer": "A beginning"
+                "answer_text": "D. are staying",
+                "answer": "D. are staying",
+                "isCorrect": true,
+                "answered": "D. are staying",
+                "correctAnswer": "D. are staying"
               },
               {
-                "id": 231266,
-                "name": "<p>Câu 8:The train ___ the bay and then turned inland for twenty miles.</p>",
+                "id": 200268,
+                "name": "<p><strong>Câu 8.</strong> _____ Peter _____ Mary?</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 8,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:02:18.000000Z",
-                "updated_at": "2025-09-23T04:03:17.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:00:01.000000Z",
+                "updated_at": "2024-05-09T12:00:01.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<ul><li><p></p></li></ul>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910591,
-                    "name": "A coasted",
+                    "id": 788351,
+                    "name": "A. Does – know",
                     "note": null,
-                    "question_id": 231266
+                    "question_id": 200268
                   },
                   {
-                    "id": 910592,
-                    "name": "B skirted",
+                    "id": 788352,
+                    "name": "B. Is – knowing",
                     "note": null,
-                    "question_id": 231266
+                    "question_id": 200268
                   },
                   {
-                    "id": 910593,
-                    "name": "C glided",
+                    "id": 788353,
+                    "name": "C. Does – knows",
                     "note": null,
-                    "question_id": 231266
+                    "question_id": 200268
                   },
                   {
-                    "id": 910594,
-                    "name": "D sided",
+                    "id": 788354,
+                    "name": "D. Do – knows",
                     "note": null,
-                    "question_id": 231266
+                    "question_id": 200268
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910594,
-                  "name": "D sided",
+                  "id": 788354,
+                  "name": "D. Do – knows",
                   "note": null,
-                  "question_id": 231266
+                  "question_id": 200268
                 },
-                "answer_text": "D sided",
-                "answer": "B skirted",
+                "answer_text": "D. Do – knows",
+                "answer": "A. Does – know",
                 "isCorrect": false,
-                "answered": "D sided",
-                "correctAnswer": "B skirted"
+                "answered": "D. Do – knows",
+                "correctAnswer": "A. Does – know"
               },
               {
-                "id": 231267,
-                "name": "<p>Câu 9: The lake contained ___ thousands of fish.</p>",
+                "id": 200269,
+                "name": "<p><strong>Câu 9.</strong> I usually _____ shopping with my mother on Sundays.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 9,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:03:57.000000Z",
-                "updated_at": "2025-09-23T04:03:57.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:01:06.000000Z",
+                "updated_at": "2024-05-09T12:01:06.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910595,
-                    "name": "A much",
+                    "id": 788355,
+                    "name": "A. am going",
                     "note": null,
-                    "question_id": 231267
+                    "question_id": 200269
                   },
                   {
-                    "id": 910596,
-                    "name": "B one",
+                    "id": 788356,
+                    "name": "B. goes",
                     "note": null,
-                    "question_id": 231267
+                    "question_id": 200269
                   },
                   {
-                    "id": 910597,
-                    "name": "C many",
+                    "id": 788357,
+                    "name": "C. go",
                     "note": null,
-                    "question_id": 231267
+                    "question_id": 200269
                   },
                   {
-                    "id": 910598,
-                    "name": "D few",
+                    "id": 788358,
+                    "name": "D. is going",
                     "note": null,
-                    "question_id": 231267
+                    "question_id": 200269
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910598,
-                  "name": "D few",
+                  "id": 788358,
+                  "name": "D. is going",
                   "note": null,
-                  "question_id": 231267
+                  "question_id": 200269
                 },
-                "answer_text": "D few",
-                "answer": "C many",
+                "answer_text": "D. is going",
+                "answer": "C. go",
                 "isCorrect": false,
-                "answered": "D few",
-                "correctAnswer": "C many"
+                "answered": "D. is going",
+                "correctAnswer": "C. go"
               },
               {
-                "id": 231268,
-                "name": "<p>Câu 10: The Director’s personality was undoubtedly a ___ in the company’s success.</p>",
+                "id": 200270,
+                "name": "<p><strong>Câu 10.</strong> I _____ for a bicycle, but I can’t find anything good.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 10,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:04:54.000000Z",
-                "updated_at": "2025-09-23T04:04:54.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:01:35.000000Z",
+                "updated_at": "2024-05-09T12:01:35.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910599,
-                    "name": "A feature",
+                    "id": 788359,
+                    "name": "A. am looking",
                     "note": null,
-                    "question_id": 231268
+                    "question_id": 200270
                   },
                   {
-                    "id": 910600,
-                    "name": "B individual",
+                    "id": 788360,
+                    "name": "B. look",
                     "note": null,
-                    "question_id": 231268
+                    "question_id": 200270
                   },
                   {
-                    "id": 910601,
-                    "name": "C factor",
+                    "id": 788361,
+                    "name": "C. looks",
                     "note": null,
-                    "question_id": 231268
+                    "question_id": 200270
                   },
                   {
-                    "id": 910602,
-                    "name": "D cause",
+                    "id": 788362,
+                    "name": "D. is looking",
                     "note": null,
-                    "question_id": 231268
+                    "question_id": 200270
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910602,
-                  "name": "D cause",
+                  "id": 788362,
+                  "name": "D. is looking",
                   "note": null,
-                  "question_id": 231268
+                  "question_id": 200270
                 },
-                "answer_text": "D cause",
-                "answer": "C factor",
+                "answer_text": "D. is looking",
+                "answer": "A. am looking",
                 "isCorrect": false,
-                "answered": "D cause",
-                "correctAnswer": "C factor"
+                "answered": "D. is looking",
+                "correctAnswer": "A. am looking"
               },
               {
-                "id": 231269,
-                "name": "<p>Câu 11: He missed the lecture, so I lent him my notes ___.</p>",
+                "id": 200271,
+                "name": "<p><strong>Câu 11.</strong> Look! He (leave) _____ the house.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 11,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:07:07.000000Z",
-                "updated_at": "2025-09-23T04:07:07.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:03:09.000000Z",
+                "updated_at": "2024-05-09T12:03:09.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910603,
-                    "name": "A after",
+                    "id": 788363,
+                    "name": "A. leaves",
                     "note": null,
-                    "question_id": 231269
+                    "question_id": 200271
                   },
                   {
-                    "id": 910604,
-                    "name": "B afterwards",
+                    "id": 788364,
+                    "name": "B. is leaving",
                     "note": null,
-                    "question_id": 231269
+                    "question_id": 200271
                   },
                   {
-                    "id": 910605,
-                    "name": "C at last",
+                    "id": 788365,
+                    "name": "C. leave",
                     "note": null,
-                    "question_id": 231269
+                    "question_id": 200271
                   },
                   {
-                    "id": 910606,
-                    "name": "D finally",
+                    "id": 788366,
+                    "name": "D. are leaving",
                     "note": null,
-                    "question_id": 231269
+                    "question_id": 200271
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910606,
-                  "name": "D finally",
+                  "id": 788366,
+                  "name": "D. are leaving",
                   "note": null,
-                  "question_id": 231269
+                  "question_id": 200271
                 },
-                "answer_text": "D finally",
-                "answer": "B afterwards",
+                "answer_text": "D. are leaving",
+                "answer": "B. is leaving",
                 "isCorrect": false,
-                "answered": "D finally",
-                "correctAnswer": "B afterwards"
+                "answered": "D. are leaving",
+                "correctAnswer": "B. is leaving"
               },
               {
-                "id": 231270,
-                "name": "<p>Câu 12: After the theft of his car he put in an insurance ___ for $3,000.</p>",
+                "id": 200272,
+                "name": "<p><strong>Câu 12.</strong> Quiet please! I (write) _____ a test.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 12,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:07:51.000000Z",
-                "updated_at": "2025-09-23T04:07:51.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:03:35.000000Z",
+                "updated_at": "2024-05-09T12:03:35.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910607,
-                    "name": "A account",
+                    "id": 788367,
+                    "name": "A. write",
                     "note": null,
-                    "question_id": 231270
+                    "question_id": 200272
                   },
                   {
-                    "id": 910608,
-                    "name": "B invoice",
+                    "id": 788368,
+                    "name": "B. am writing",
                     "note": null,
-                    "question_id": 231270
+                    "question_id": 200272
                   },
                   {
-                    "id": 910609,
-                    "name": "C assessment",
+                    "id": 788369,
+                    "name": "C. writes",
                     "note": null,
-                    "question_id": 231270
+                    "question_id": 200272
                   },
                   {
-                    "id": 910610,
-                    "name": "D claim",
+                    "id": 788370,
+                    "name": "D. is writing",
                     "note": null,
-                    "question_id": 231270
+                    "question_id": 200272
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910610,
-                  "name": "D claim",
+                  "id": 788370,
+                  "name": "D. is writing",
                   "note": null,
-                  "question_id": 231270
+                  "question_id": 200272
                 },
-                "answer_text": "D claim",
-                "answer": "D claim",
-                "isCorrect": true,
-                "answered": "D claim",
-                "correctAnswer": "D claim"
+                "answer_text": "D. is writing",
+                "answer": "B. am writing",
+                "isCorrect": false,
+                "answered": "D. is writing",
+                "correctAnswer": "B. am writing"
               },
               {
-                "id": 231271,
-                "name": "<p>Câu 13: His answer was so confused that I could hardly make any ___ of it at all.</p>",
+                "id": 200273,
+                "name": "<p><strong>Câu 13.</strong> She usually (walk) _____ to school.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 13,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:08:26.000000Z",
-                "updated_at": "2025-09-23T04:08:26.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:04:08.000000Z",
+                "updated_at": "2024-05-09T12:04:08.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910611,
-                    "name": "A interpretation",
+                    "id": 788372,
+                    "name": "B. is walking",
                     "note": null,
-                    "question_id": 231271
+                    "question_id": 200273
                   },
                   {
-                    "id": 910612,
-                    "name": "B application",
+                    "id": 788373,
+                    "name": "C. walk",
                     "note": null,
-                    "question_id": 231271
+                    "question_id": 200273
                   },
                   {
-                    "id": 910613,
-                    "name": "C meaning",
+                    "id": 788374,
+                    "name": "D. are walking",
                     "note": null,
-                    "question_id": 231271
-                  },
-                  {
-                    "id": 910614,
-                    "name": "D sense",
-                    "note": null,
-                    "question_id": 231271
+                    "question_id": 200273
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910614,
-                  "name": "D sense",
+                  "id": 788374,
+                  "name": "D. are walking",
                   "note": null,
-                  "question_id": 231271
+                  "question_id": 200273
                 },
-                "answer_text": "D sense",
-                "answer": "D sense",
-                "isCorrect": true,
-                "answered": "D sense",
-                "correctAnswer": "D sense"
+                "answer_text": "D. are walking",
+                "answer": "B. is walking",
+                "isCorrect": false,
+                "answered": "D. are walking",
+                "correctAnswer": "B. is walking"
               },
               {
-                "id": 231272,
-                "name": "<p>Câu 14: His failure ___ great disappointment to his parents.</p>",
+                "id": 200274,
+                "name": "<p><strong>Câu 14.</strong> But look! Today she (go) _____ by bike.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 14,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:09:06.000000Z",
-                "updated_at": "2025-09-23T04:09:31.000000Z",
-                "source": null,
-                "status": "good",
-                "explain_answer": "<ul><li><p><strong>forced</strong> = ép buộc → không hợp nghĩa.</p></li><li><p><strong>made</strong> = “làm cho”, nhưng với danh từ <strong>disappointment</strong>, người ta không dùng <em>made disappointment</em>, mà dùng <em>caused disappointment</em>.</p></li><li><p><strong>caused</strong> = gây ra → <em>cause disappointment</em> là collocation chuẩn. ✔</p></li><li><p><strong>provided</strong> = cung cấp → không hợp vì <em>provide disappointment</em> không có nghĩa.</p></li></ul>",
-                "scoring_method": 1,
-                "answers": [
-                  {
-                    "id": 910615,
-                    "name": "A forced",
-                    "note": null,
-                    "question_id": 231272
-                  },
-                  {
-                    "id": 910616,
-                    "name": "B made",
-                    "note": null,
-                    "question_id": 231272
-                  },
-                  {
-                    "id": 910617,
-                    "name": "C caused",
-                    "note": null,
-                    "question_id": 231272
-                  },
-                  {
-                    "id": 910618,
-                    "name": "D provided",
-                    "note": null,
-                    "question_id": 231272
-                  }
-                ],
-                "selecting_answers": {
-                  "id": 910618,
-                  "name": "D provided",
-                  "note": null,
-                  "question_id": 231272
-                },
-                "answer_text": "D provided",
-                "answer": "C caused",
-                "isCorrect": false,
-                "answered": "D provided",
-                "correctAnswer": "C caused"
-              },
-              {
-                "id": 231273,
-                "name": "<p>Câu 15: In the legal profession, men ___ women by five to one.</p>",
-                "note": null,
-                "type": "SINGLE_ANSWER",
-                "order": 15,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:10:16.000000Z",
-                "updated_at": "2025-09-23T04:10:34.000000Z",
-                "source": null,
-                "status": "good",
-                "explain_answer": "<p><strong>“In the legal profession, men ___ women by five to one.”</strong></p><ul><li><p><strong>outnumber</strong> = đông hơn, nhiều hơn về số lượng → <em>men outnumber women</em> = số lượng nam nhiều hơn nữ. ✔</p></li><li><p><strong>supersede</strong> = thay thế, thế chỗ (dùng cho quy định, công nghệ, người kế nhiệm → không hợp).</p></li><li><p><strong>overcome</strong> = vượt qua (khó khăn, thử thách → không hợp).</p></li><li><p><strong>outclass</strong> = vượt trội hơn hẳn (về chất lượng, năng lực → không dùng cho số lượng).</p></li></ul><p>👉 Do đó, đáp án chuẩn nhất: <strong>outnumber</strong>.</p>",
-                "scoring_method": 1,
-                "answers": [
-                  {
-                    "id": 910619,
-                    "name": "A outnumber",
-                    "note": null,
-                    "question_id": 231273
-                  },
-                  {
-                    "id": 910620,
-                    "name": "B supersede",
-                    "note": null,
-                    "question_id": 231273
-                  },
-                  {
-                    "id": 910621,
-                    "name": "C overcome",
-                    "note": null,
-                    "question_id": 231273
-                  },
-                  {
-                    "id": 910622,
-                    "name": "D outclass",
-                    "note": null,
-                    "question_id": 231273
-                  }
-                ],
-                "selecting_answers": {
-                  "id": 910622,
-                  "name": "D outclass",
-                  "note": null,
-                  "question_id": 231273
-                },
-                "answer_text": "D outclass",
-                "answer": "A outnumber",
-                "isCorrect": false,
-                "answered": "D outclass",
-                "correctAnswer": "A outnumber"
-              },
-              {
-                "id": 231274,
-                "name": "<p>Câu 16: The accused was given a short sentence as he had committed only a ___ offence.</p>",
-                "note": null,
-                "type": "SINGLE_ANSWER",
-                "order": 16,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:11:18.000000Z",
-                "updated_at": "2025-09-23T04:11:43.000000Z",
-                "source": null,
-                "status": "good",
-                "explain_answer": "<p><strong>“The accused was given a short sentence as he had committed only a ___ offence.”</strong></p><ul><li><p><strong>subordinate offence</strong> = không tự nhiên (subordinate thường chỉ “cấp dưới, phụ thuộc”, không dùng để mô tả “tội nhẹ”).</p></li><li><p><strong>minimal offence</strong> = nghe gượng, vì <em>minimal</em> = tối thiểu, thường đi với effort, risk, cost (minimal risk, minimal effort).</p></li><li><p><strong>secondary offence</strong> = nghĩa là “phụ, thứ yếu”, nhưng trong ngữ cảnh pháp lý không chuẩn để chỉ “tội nhẹ”.</p></li><li><p><strong>minor offence</strong> = tội nhẹ, tội ít nghiêm trọng → collocation chuẩn trong luật pháp. ✔</p></li></ul>",
-                "scoring_method": 1,
-                "answers": [
-                  {
-                    "id": 910623,
-                    "name": "A subordinate",
-                    "note": null,
-                    "question_id": 231274
-                  },
-                  {
-                    "id": 910624,
-                    "name": "B minimal",
-                    "note": null,
-                    "question_id": 231274
-                  },
-                  {
-                    "id": 910625,
-                    "name": "C secondary",
-                    "note": null,
-                    "question_id": 231274
-                  },
-                  {
-                    "id": 910626,
-                    "name": "D minor",
-                    "note": null,
-                    "question_id": 231274
-                  }
-                ],
-                "selecting_answers": {
-                  "id": 910626,
-                  "name": "D minor",
-                  "note": null,
-                  "question_id": 231274
-                },
-                "answer_text": "D minor",
-                "answer": "D minor",
-                "isCorrect": true,
-                "answered": "D minor",
-                "correctAnswer": "D minor"
-              },
-              {
-                "id": 231275,
-                "name": "<p>Câu 17: By the age of twenty-five he had ___ his ambition of becoming a pianist.</p>",
-                "note": null,
-                "type": "SINGLE_ANSWER",
-                "order": 17,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:12:25.000000Z",
-                "updated_at": "2025-09-23T04:12:50.000000Z",
-                "source": null,
-                "status": "good",
-                "explain_answer": "<p><strong>“By the age of twenty-five he had ___ his ambition of becoming a pianist.”</strong></p><ul><li><p><strong>reached his ambition</strong> ❌ → không tự nhiên, ta nói <em>reach an agreement/goal/decision</em> nhưng không nói <em>reach an ambition</em>.</p></li><li><p><strong>completed his ambition</strong> ❌ → <em>complete</em> dùng với task, project, course → không kết hợp với “ambition”.</p></li><li><p><strong>achieved his ambition</strong> ✔ → collocation chuẩn: <em>achieve an ambition/goal/dream</em> = đạt được tham vọng/ước mơ.</p></li><li><p><strong>obtained his ambition</strong> ❌ → <em>obtain</em> = đạt được (thông tin, giấy tờ, bằng cấp), không dùng với “ambition”.</p></li></ul><p>👉 Đáp án chuẩn: <strong>achieved</strong>.</p>",
-                "scoring_method": 1,
-                "answers": [
-                  {
-                    "id": 910627,
-                    "name": "A reached",
-                    "note": null,
-                    "question_id": 231275
-                  },
-                  {
-                    "id": 910628,
-                    "name": "B completed",
-                    "note": null,
-                    "question_id": 231275
-                  },
-                  {
-                    "id": 910629,
-                    "name": "C achieved",
-                    "note": null,
-                    "question_id": 231275
-                  },
-                  {
-                    "id": 910630,
-                    "name": "D obtained",
-                    "note": null,
-                    "question_id": 231275
-                  }
-                ],
-                "selecting_answers": {
-                  "id": 910630,
-                  "name": "D obtained",
-                  "note": null,
-                  "question_id": 231275
-                },
-                "answer_text": "D obtained",
-                "answer": "C achieved",
-                "isCorrect": false,
-                "answered": "D obtained",
-                "correctAnswer": "C achieved"
-              },
-              {
-                "id": 231276,
-                "name": "<p>Câu 18: ___ some countries have ruined their agriculture, squandering money on uneconomic factories, the Ivory Coast has stuck to what it is good at.</p>",
-                "note": null,
-                "type": "SINGLE_ANSWER",
-                "order": 18,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:13:31.000000Z",
-                "updated_at": "2025-09-23T04:13:31.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:04:41.000000Z",
+                "updated_at": "2024-05-09T12:04:41.000000Z",
                 "source": null,
                 "status": "good",
                 "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910631,
-                    "name": "A After",
+                    "id": 788375,
+                    "name": "A. goes",
                     "note": null,
-                    "question_id": 231276
+                    "question_id": 200274
                   },
                   {
-                    "id": 910632,
-                    "name": "B During",
+                    "id": 788376,
+                    "name": "B. is going",
                     "note": null,
-                    "question_id": 231276
+                    "question_id": 200274
                   },
                   {
-                    "id": 910633,
-                    "name": "C When",
+                    "id": 788377,
+                    "name": "C. go",
                     "note": null,
-                    "question_id": 231276
+                    "question_id": 200274
                   },
                   {
-                    "id": 910634,
-                    "name": "D While",
+                    "id": 788378,
+                    "name": "D. are going",
                     "note": null,
-                    "question_id": 231276
+                    "question_id": 200274
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910634,
-                  "name": "D While",
+                  "id": 788378,
+                  "name": "D. are going",
                   "note": null,
-                  "question_id": 231276
+                  "question_id": 200274
                 },
-                "answer_text": "D While",
-                "answer": "D While",
-                "isCorrect": true,
-                "answered": "D While",
-                "correctAnswer": "D While"
+                "answer_text": "D. are going",
+                "answer": "B. is going",
+                "isCorrect": false,
+                "answered": "D. are going",
+                "correctAnswer": "B. is going"
               },
               {
-                "id": 231277,
-                "name": "<p>Câu 19: I’m just as ___ as you are to make this company successful.</p>",
+                "id": 200275,
+                "name": "<p><strong>Câu 15.</strong> Every Sunday we (go) _____ to see my grandparents.</p>",
+                "note": null,
+                "type": "SINGLE_ANSWER",
+                "order": 15,
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:05:20.000000Z",
+                "updated_at": "2024-05-09T12:05:20.000000Z",
+                "source": null,
+                "status": "good",
+                "explain_answer": null,
+                "scoring_method": 1,
+                "answers": [
+                  {
+                    "id": 788379,
+                    "name": "A. is going",
+                    "note": null,
+                    "question_id": 200275
+                  },
+                  {
+                    "id": 788380,
+                    "name": "B. are going",
+                    "note": null,
+                    "question_id": 200275
+                  },
+                  {
+                    "id": 788381,
+                    "name": "C. goes",
+                    "note": null,
+                    "question_id": 200275
+                  },
+                  {
+                    "id": 788382,
+                    "name": "D. go",
+                    "note": null,
+                    "question_id": 200275
+                  }
+                ],
+                "selecting_answers": {
+                  "id": 788382,
+                  "name": "D. go",
+                  "note": null,
+                  "question_id": 200275
+                },
+                "answer_text": "D. go",
+                "answer": "D. go",
+                "isCorrect": true,
+                "answered": "D. go",
+                "correctAnswer": "D. go"
+              },
+              {
+                "id": 200276,
+                "name": "<p><strong>Câu 16.</strong> He often (go) _____ to the cinema.</p>",
+                "note": null,
+                "type": "SINGLE_ANSWER",
+                "order": 16,
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:06:18.000000Z",
+                "updated_at": "2024-05-09T12:06:18.000000Z",
+                "source": null,
+                "status": "good",
+                "explain_answer": null,
+                "scoring_method": 1,
+                "answers": [
+                  {
+                    "id": 788383,
+                    "name": "A. is going",
+                    "note": null,
+                    "question_id": 200276
+                  },
+                  {
+                    "id": 788384,
+                    "name": "B. goes",
+                    "note": null,
+                    "question_id": 200276
+                  },
+                  {
+                    "id": 788385,
+                    "name": "C. go",
+                    "note": null,
+                    "question_id": 200276
+                  },
+                  {
+                    "id": 788386,
+                    "name": "D. are going",
+                    "note": null,
+                    "question_id": 200276
+                  }
+                ],
+                "selecting_answers": {
+                  "id": 788386,
+                  "name": "D. are going",
+                  "note": null,
+                  "question_id": 200276
+                },
+                "answer_text": "D. are going",
+                "answer": "B. goes",
+                "isCorrect": false,
+                "answered": "D. are going",
+                "correctAnswer": "B. goes"
+              },
+              {
+                "id": 200277,
+                "name": "<p><strong>Câu 17.</strong> We (play) _____ Monopoly at the moment.</p>",
+                "note": null,
+                "type": "SINGLE_ANSWER",
+                "order": 17,
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:06:58.000000Z",
+                "updated_at": "2024-05-09T12:06:58.000000Z",
+                "source": null,
+                "status": "good",
+                "explain_answer": null,
+                "scoring_method": 1,
+                "answers": [
+                  {
+                    "id": 788387,
+                    "name": "A. play",
+                    "note": null,
+                    "question_id": 200277
+                  },
+                  {
+                    "id": 788388,
+                    "name": "B. are playing",
+                    "note": null,
+                    "question_id": 200277
+                  },
+                  {
+                    "id": 788389,
+                    "name": "C. plays",
+                    "note": null,
+                    "question_id": 200277
+                  },
+                  {
+                    "id": 788390,
+                    "name": "D. is playing",
+                    "note": null,
+                    "question_id": 200277
+                  }
+                ],
+                "selecting_answers": {
+                  "id": 788390,
+                  "name": "D. is playing",
+                  "note": null,
+                  "question_id": 200277
+                },
+                "answer_text": "D. is playing",
+                "answer": "B. are playing",
+                "isCorrect": false,
+                "answered": "D. is playing",
+                "correctAnswer": "B. are playing"
+              },
+              {
+                "id": 200278,
+                "name": "<p><strong>Câu 18. </strong>The child seldom (cry) _____</p>",
+                "note": null,
+                "type": "SINGLE_ANSWER",
+                "order": 18,
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:07:25.000000Z",
+                "updated_at": "2024-05-09T12:07:25.000000Z",
+                "source": null,
+                "status": "good",
+                "explain_answer": null,
+                "scoring_method": 1,
+                "answers": [
+                  {
+                    "id": 788391,
+                    "name": "A. cry",
+                    "note": null,
+                    "question_id": 200278
+                  },
+                  {
+                    "id": 788392,
+                    "name": "B. is crying",
+                    "note": null,
+                    "question_id": 200278
+                  },
+                  {
+                    "id": 788393,
+                    "name": "C. cries",
+                    "note": null,
+                    "question_id": 200278
+                  },
+                  {
+                    "id": 788394,
+                    "name": "D. are crying",
+                    "note": null,
+                    "question_id": 200278
+                  }
+                ],
+                "selecting_answers": {
+                  "id": 788394,
+                  "name": "D. are crying",
+                  "note": null,
+                  "question_id": 200278
+                },
+                "answer_text": "D. are crying",
+                "answer": "C. cries",
+                "isCorrect": false,
+                "answered": "D. are crying",
+                "correctAnswer": "C. cries"
+              },
+              {
+                "id": 200279,
+                "name": "<p><strong>Câu 19.</strong> I (not/ do) _____ anything at the moment.</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 19,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:14:20.000000Z",
-                "updated_at": "2025-09-23T04:14:40.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:12:15.000000Z",
+                "updated_at": "2024-05-09T12:12:24.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<p><strong>“I’m just as ___ as you are to make this company successful.”</strong></p><ul><li><p><strong>dedicated</strong> = tận tâm, cống hiến → thường dùng: <em>dedicated to his work</em>, nhưng cấu trúc so sánh ở đây cần sắc thái “quyết tâm”, không phải “tận tâm”.</p></li><li><p><strong>serious</strong> = nghiêm túc → <em>serious about doing something</em>, có thể dùng nhưng không mạnh bằng “determined”, và không phải collocation hay đi với tham vọng/goal.</p></li><li><p><strong>wilful</strong> = cố ý, bướng bỉnh (mang nghĩa tiêu cực).</p></li><li><p><strong>determined</strong> = quyết tâm → <em>determined to do something</em> = quyết tâm làm gì đó → phù hợp và tự nhiên nhất. ✔</p></li></ul><p>👉 Đáp án: <strong>determined</strong>.</p>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910635,
-                    "name": "A dedicated",
+                    "id": 788395,
+                    "name": "A. do not",
                     "note": null,
-                    "question_id": 231277
+                    "question_id": 200279
                   },
                   {
-                    "id": 910636,
-                    "name": "B serious",
+                    "id": 788396,
+                    "name": "B. am not doing",
                     "note": null,
-                    "question_id": 231277
+                    "question_id": 200279
                   },
                   {
-                    "id": 910637,
-                    "name": "C wilful",
+                    "id": 788397,
+                    "name": "C. does not",
                     "note": null,
-                    "question_id": 231277
+                    "question_id": 200279
                   },
                   {
-                    "id": 910638,
-                    "name": "D determined",
+                    "id": 788398,
+                    "name": "D. isn’t doing",
                     "note": null,
-                    "question_id": 231277
+                    "question_id": 200279
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910638,
-                  "name": "D determined",
+                  "id": 788398,
+                  "name": "D. isn’t doing",
                   "note": null,
-                  "question_id": 231277
+                  "question_id": 200279
                 },
-                "answer_text": "D determined",
-                "answer": "D determined",
-                "isCorrect": true,
-                "answered": "D determined",
-                "correctAnswer": "D determined"
+                "answer_text": "D. isn’t doing",
+                "answer": "B. am not doing",
+                "isCorrect": false,
+                "answered": "D. isn’t doing",
+                "correctAnswer": "B. am not doing"
               },
               {
-                "id": 231278,
-                "name": "<p>Câu 20: There is no evidence that any member of the Government is ___ in the current scandals.</p>",
+                "id": 200280,
+                "name": "<p><strong>Câu 20.</strong> (watch/ he) _____ the news regularly?</p>",
                 "note": null,
                 "type": "SINGLE_ANSWER",
                 "order": 20,
-                "page_id": 7487,
-                "created_at": "2025-09-23T04:15:28.000000Z",
-                "updated_at": "2025-09-23T04:15:52.000000Z",
+                "page_id": 6158,
+                "created_at": "2024-05-09T12:12:47.000000Z",
+                "updated_at": "2024-05-09T12:12:47.000000Z",
                 "source": null,
                 "status": "good",
-                "explain_answer": "<p><strong>“There is no evidence that any member of the Government is ___ in the current scandals.”</strong></p><ul><li><p><strong>connected in</strong> ❌ → phải nói <em>connected with/to</em>, nhưng trong bối cảnh “scandal” thì không tự nhiên.</p></li><li><p><strong>corrupted in</strong> ❌ → <em>corrupted</em> = bị tha hóa, biến chất (thường dùng cho “morally corrupted”), nhưng không đi với “in a scandal”.</p></li><li><p><strong>participated in</strong> ❌ → phải ở dạng chủ động <em>participated in scandals</em>, không dùng ở dạng bị động như câu này (<em>is participated</em> = sai ngữ pháp).</p></li><li><p><strong>implicated in</strong> ✔ → collocation chuẩn: <em>implicated in a crime/scandal</em> = bị dính líu, có liên quan đến.</p></li></ul><p>👉 Đáp án: <strong>implicated</strong>.</p>",
+                "explain_answer": null,
                 "scoring_method": 1,
                 "answers": [
                   {
-                    "id": 910639,
-                    "name": "A connected",
+                    "id": 788399,
+                    "name": "A. Are he watching",
                     "note": null,
-                    "question_id": 231278
+                    "question_id": 200280
                   },
                   {
-                    "id": 910640,
-                    "name": "B corrupted",
+                    "id": 788400,
+                    "name": "B. Is he watching",
                     "note": null,
-                    "question_id": 231278
+                    "question_id": 200280
                   },
                   {
-                    "id": 910641,
-                    "name": "C participated",
+                    "id": 788401,
+                    "name": "C. Do he watch",
                     "note": null,
-                    "question_id": 231278
+                    "question_id": 200280
                   },
                   {
-                    "id": 910642,
-                    "name": "D implicated",
+                    "id": 788402,
+                    "name": "D. Does he watch",
                     "note": null,
-                    "question_id": 231278
+                    "question_id": 200280
                   }
                 ],
                 "selecting_answers": {
-                  "id": 910642,
-                  "name": "D implicated",
+                  "id": 788402,
+                  "name": "D. Does he watch",
                   "note": null,
-                  "question_id": 231278
+                  "question_id": 200280
                 },
-                "answer_text": "D implicated",
-                "answer": "D implicated",
+                "answer_text": "D. Does he watch",
+                "answer": "D. Does he watch",
                 "isCorrect": true,
-                "answered": "D implicated",
-                "correctAnswer": "D implicated"
+                "answered": "D. Does he watch",
+                "correctAnswer": "D. Does he watch"
               }
             ]
           }
         ],
-        "setting": {
-          "id": 6818,
-          "exam_id": 7155,
-          "time_limit": 1,
-          "time_limit_value": 30,
-          "created_at": "2025-09-23T04:17:14.000000Z",
-          "updated_at": "2025-09-23T04:17:25.000000Z"
-        },
+        "setting": null,
         "category": {
           "id": 13,
           "avatar": null,
@@ -1098,11 +1079,11 @@
           "is_available_app": 0
         }
       },
-      "share_code": "1766655335-2y10gdwpvtkox1ozawoys4oicgba298oftn8zuvi1dvaebge6iug"
+      "share_code": "1766983184-2y10ampwpj34ycaabpgw0yjponfwdxbacobanmdpdqmnpef4bh1lp62"
     }
   },
   {
-    "url": "https://baitaptracnghiem.com/lam-bai/bai-tap-trac-nghiem-tu-vung-va-ngu-phap-tieng-anh-so-3",
+    "url": "https://baitaptracnghiem.com/lam-bai/trac-nghiem-phan-biet-thi-hien-tai-don-va-thi-hien-tai-tiep-dien-tieng-anh-13",
     "status": 200,
     "body": {
       "htmlSnippet": "<!DOCTYPE html><html lang=\"vi\" style=\"\"><head><style id=\"react-aria-pressable-style\">@layer {\n  [data-react-aria-pressable] {\n    touch-action: pan-x pan-y pinch-zoom;\n  }\n}</style><style type=\"text/css\">:root{--toastify-color-light: #fff;--toastify-color-dark: #121212;--toastify-color-info: #3498db;--toastify-color-success: #07bc0c;--toastify-color-warning: #f1c40f;--toastify-color-error: hsl(6, 78%, 57%);--toastify-color-transparent: rgba(255, 255, 255, .7);--toastify-icon-color-info: var(--toastify-color-info);--toastify-icon-color-success: var(--toastify-color-success);--toastify-icon-color-warning: var(--toastify-color-warning);--toastify-icon-color-error: var(--toastify-color-error);--toastify-container-width: fit-content;--toastify-toast-width: 320px;--toastify-toast-offset: 16px;--toastify-toast-top: max(var(--toastify-toast-offset), env(safe-area-inset-top));--toastify-toast-right: max(var(--toastify-toast-offset), env(safe-area-inset-right));--toastify-toast-left: max(var(--toastify-toast-offset), env(safe-area-inset-left));--toastify-toast-bottom: max(var(--toastify-toast-offset), env(safe-area-inset-bottom));--toastify-toast-background: #fff;--toastify-toast-padding: 14px;--toastify-toast-min-height: 64px;--toastify-toast-max-height: 800px;--toastify-toast-bd-radius: 6px;--toastify-toast-shadow: 0px 4px 12px rgba(0, 0, 0, .1);--toastify-font-family: sans-serif;--toastify-z-index: 9999;--toastify-text-color-light: #757575;--toastify-text-color-dark: #fff;--toastify-text-color-info: #fff;--toastify-text-color-success: #fff;--toastify-text-color-warning: #fff;--toastify-text-color-error: #fff;--toastify-spinner-color: #616161;--toastify-spinner-color-empty-area: #e0e0e0;--toastify-color-progress-light: linear-gradient(to right, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55);--toastify-color-progress-dark: #bb86fc;--toastify-color-progress-info: var(--toastify-color-info);--toastify-color-progress-success: var(--toastify-color-success);--toastify-colo"
